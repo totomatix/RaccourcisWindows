@@ -12,11 +12,11 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Catégories :** Gestion du texte, MISC
 
-### ouvre la page de propriétés du PC
+### Ouvrir la page de propriétés du PC
 
 **Combinaison de touches :** *WIN* - *PAUSE*
 
-**Description :** ouvre la page de propriétés du PC
+**Description :** Permet d'ouvrir la page de propriétés du PC
 
 **Visuel :** ![Raccourcis clavier WIN - Pause](gifs/WIN_Pause.gif)
 
