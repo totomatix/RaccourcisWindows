@@ -12,3 +12,12 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Catégories :** Gestion du texte, MISC
 
+### Pour fermer la fenêtre active
+
+**Combinaison de touches :** *ALT* - *F4*
+
+**Description :** Pour fermer la fenêtre active
+
+**Visuel :** ![ALT - F4](gifs/ALT_F4.gif)
+
+**Catégories :** Gestion du texte, MISC
