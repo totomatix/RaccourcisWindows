@@ -9,6 +9,6 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Description :** Coupe le texte selectionné dans le presse papier
 
-**Visuel :** ![couper](couper.gif)
+**Visuel :** ![couper](gifs/couper.gif)
 
 **Catégories :** Gestion du texte, MISC
