@@ -6,10 +6,10 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 ### Naviguation entre les fenêtres
 
-**Combinaison de touches :** ALT - TAB
+**Combinaison de touches :** *ALT* - *TAB*
 
-**Description :** Naviguer entre les fenêtres
+**Description :** Permet de aviguer entre les fenêtres
 
 **Visuel :** ![result**GIF*_ALT+TAB_](alt_tab.gif)
 
-**Catégories : B** Gestion du bureau et des fenêtres.
+**Catégories :** Gestion du bureau et des fenêtres.
