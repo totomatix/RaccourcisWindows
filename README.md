@@ -41,3 +41,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![Menu Executer](gifs/windows_r.gif)
 
 **Catégories :**	MISC
+
+### Ouvrir le menu démarrer
+
+**Combinaison de touches :** *WINDOWS* 
+
+**Description :** Ouvre le menu démarrer
+
+**Visuel :** ![Raccourcis clavier CTRL - Z](gifs/CTRL_Z.gif)
+
+**Catégories :** MISC
