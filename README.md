@@ -1,4 +1,12 @@
 # Raccourcis Windows
 
-<!-- TODO compléter le paragraphe introductif -->
-Documentation de raccourcis Windows intéressants à connaître pour un développeur.
+### Copier une sélection de texte, un dossier ou une image
+
+**Combinaison de touches :** *CTRL* - *C* ou *CTRL* - *INSER*
+
+**Description :** Le raccourci permet de copier une sélection de texte, un dossier ou une image. Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier enfoncée et cliquer sur la lettre C.
+
+**Visuel :** ![Raccourcis clavier CTRL-C ou CTRL-INSER](RaccourcisWindows\gifs
+![Raccourcis clavier avec Ctrl et Alt](../RaccourcisWindows/gifs/CTRL_C_OU_CTRL_INSER.gif "Visuel des raccourcis clavier CTRL-C ou CTRL-INSER")
+
+**Catégories :** Gestion du texte , Gestion du presse-papierscr
