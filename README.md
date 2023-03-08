@@ -71,3 +71,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![Raccourcis clavier CTRL - Z](gifs/WINDOWS.gif)
 
 **Catégories :** MISC
+
+### Afficher les tâches 
+
+**Combinaison de touches :** *WIN* - *TAB*
+
+**Description :** Permet d'afficher les tâches.
+
+**Visuel :** ![Affichage des tâches](gifs/win_tab.gif)
+
+**Catégories :** Gestion du bureau et des fenêtres.
