@@ -8,7 +8,7 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Combinaison de touches :** *ALT* - *TAB*
 
-**Description :** Permet de aviguer entre les fenêtres
+**Description :** Permet de naviguer entre les fenêtres
 
 **Visuel :** ![result**GIF*_ALT+TAB_](alt_tab.gif)
 
