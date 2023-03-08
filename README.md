@@ -51,3 +51,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![Raccourcis clavier CTRL - Z](gifs/CTRL_Z.gif)
 
 **Catégories :** MISC
+
+### Renommer l’élément sélectionné
+
+**Combinaison de touches :** *F2*
+
+**Description :** Permet de renommer l’élément sélectionné
+
+**Visuel :** ![Raccourcis clavier F2](gifs/F2.gif)
+
+**Catégories :** MISC
