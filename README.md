@@ -16,7 +16,7 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Combinaison de touches :** *WINDOWS* 
 
-**Description :** Ouvre le menu démarrer
+**Description :** Permet d'ouvrir le menu démarrer
 
 **Visuel :** ![Raccourcis clavier CTRL - Z](gifs/WINDOWS.gif)
 
