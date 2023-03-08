@@ -61,3 +61,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![Raccourcis clavier WIN - Pause](gifs/WIN_Pause.gif)
 
 **Catégories :** MISC
+
+### Ouvrir le menu démarrer
+
+**Combinaison de touches :** *WINDOWS* 
+
+**Description :** Permet d'ouvrir le menu démarrer
+
+**Visuel :** ![Raccourcis clavier CTRL - Z](gifs/WINDOWS.gif)
+
+**Catégories :** MISC
