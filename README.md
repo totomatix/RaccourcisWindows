@@ -12,11 +12,11 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Catégories :** Gestion du texte, MISC
 
-### Annuler la derniére modification
+### Ouvrir le menu démarrer
 
-**Combinaison de touches :** *CTRL* - *Z*
+**Combinaison de touches :** *WINDOWS* 
 
-**Description :** annuler la dernière modification (répétable)
+**Description :** Ouvre le menu démarrer
 
 **Visuel :** ![Raccourcis clavier CTRL - Z](gifs/CTRL_Z.gif)
 
