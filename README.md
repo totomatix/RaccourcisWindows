@@ -22,3 +22,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Catégories :** Gestion du texte , Gestion du presse-papiers
 
+### Couper
+
+**Combinaison de touches :** *CTRL* -*X*  ou *MAJ* - *suppr*
+
+**Description :** Coupe le texte selectionné dans le presse papier
+
+**Visuel :** ![couper](gifs/couper.gif)
+
+**Catégories :** Gestion du texte, MISC
+
