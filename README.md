@@ -110,3 +110,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Description :** Permet de renommer l’élément sélectionné
 
 **Visuel :** ![Raccourcis clavier F2](gifs/F2.gif)
+### Plein écran
+
+**Combinaison de touches :** *F11*
+
+**Description :** Passer en mode plein écran
+
+
+**Visuel :** ![Plein écran](gifs/F11.gif)
+
+**Catégories :**	MISC
