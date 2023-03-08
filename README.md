@@ -12,3 +12,12 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Catégories :** Gestion du texte, MISC
 
+### Annuler la derniére modification
+
+**Combinaison de touches :** *CTRL* - *Z*
+
+**Description :** annuler la dernière modification (répétable)
+
+**Visuel :** ![Raccourcis clavier CTRL - Z](gifs/CTRL_Z.gif)
+
+**Catégories :** MISC
