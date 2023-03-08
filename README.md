@@ -92,3 +92,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![result**GIF*_ALT+TAB_](alt_tab.gif)
 
 **Catégories :** Gestion du bureau et des fenêtres.
+
+### Sauvegarder le fichier actif 
+
+**Combinaison de touches :** *CTRL* - *S*
+
+**Description :** Permet de sauvegarder le fichier actif 
+
+**Visuel :** ![Raccourcis clavier CTRL - S](gifs/CTRL_S.gif)
+
+**Catégories :** MISC
