@@ -8,7 +8,7 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Description :** Selection de tout le document
 
-**Visuel :** ![Raccourcis clavier CTRL - A](gifs/CTRL_A.gif)
+**Visuel :** ![Raccourcis clavier CTRL - A](gifs/WINDOWS.gif)
 
 **Catégories :** Gestion du texte, MISC
 
