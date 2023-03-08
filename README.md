@@ -12,3 +12,12 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Catégories :** Gestion du texte, MISC
 
+### Afficher les tâches 
+
+**Combinaison de touches :** *WIN* - *TAB*
+
+**Description :** Permet d'afficher les tâches.
+
+**Visuel :** ![Affichage des tâches](gifs/win_tab.gif)
+
+**Catégories :** B.	Gestion du bureau et des fenêtres.
