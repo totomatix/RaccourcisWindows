@@ -51,3 +51,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![Raccourcis clavier CTRL - Z](gifs/CTRL_Z.gif)
 
 **Catégories :** MISC
+
+### Ouvrir la page de propriétés du PC
+
+**Combinaison de touches :** *WIN* - *PAUSE*
+
+**Description :** Permet d'ouvrir la page de propriétés du PC
+
+**Visuel :** ![Raccourcis clavier WIN - Pause](gifs/WIN_Pause.gif)
+
+**Catégories :** MISC
