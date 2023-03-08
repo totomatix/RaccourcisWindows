@@ -41,3 +41,14 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![Menu Executer](gifs/windows_r.gif)
 
 **Catégories :**	MISC
+
+### Plein écran
+
+**Combinaison de touches :** *F11*
+
+**Description :** Passer en mode plein écran
+
+
+**Visuel :** ![Plein écran](gifs/F11.gif)
+
+**Catégories :**	MISC
