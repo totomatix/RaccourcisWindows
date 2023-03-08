@@ -20,4 +20,4 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Visuel :** ![Affichage des tâches](gifs/win_tab.gif)
 
-**Catégories :** B.	Gestion du bureau et des fenêtres.
+**Catégories :** Gestion du bureau et des fenêtres.
