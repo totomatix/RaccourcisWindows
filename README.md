@@ -51,3 +51,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![Raccourcis clavier CTRL - Z](gifs/CTRL_Z.gif)
 
 **Catégories :** MISC
+
+### Déplacer la fenêtre en cours d’un écran à l’autre
+
+**Combinaison de touches :** *WIN* - *MAJ* - *GAUCHE/DROITE*
+
+**Description :** Permet de déplacer la fenêtre en cours d’un écran à l’autre
+
+**Visuel :** ![Raccourcis clavier WINDOWS - MAJ - GAUCHE/DROITE](gifs/WINDOWS_MAJ_GAUCHE-DROITE.gif)
+
+**Catégories :** Gestion du bureau et des fenêtres
