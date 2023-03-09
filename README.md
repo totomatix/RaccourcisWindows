@@ -7,7 +7,7 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 [Gestion du texte](#-Gestion-du-texte)
 
-[Gestion du bureau et des fenêtres](#-Gestion-du-bureau-et-des-fenêtres)
+[Gestion du bureau et des fenêtres](#-Gestion-du-bureau-et-des-fenetres)
 
 [Gestion du presse-papier](#-Gestion-du-presse-papier)
 
