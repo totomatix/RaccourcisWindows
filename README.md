@@ -191,6 +191,7 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Catégories :** Gestion du texte
 
+
 ### Sélection mot par mot
 
 **Combinaison de touches :** *CRTL* - *Maj* - *flèche directionnelle*
@@ -248,3 +249,11 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![gif_result_WIN+p](/gifs/win_p.gif)
 
 **Catégories :** MISC.
+### Effacer un mot
+
+**Combinaison de touches :** *CTRL* -*RETOUR ARRIERE*
+
+**Description :** Efface le texte entre le curseur et le début du mot
+**Visuel :**![Raccourci clavier CTRL -RETOUR ARRIERE](gifs/CTRL_BACKPACE.gif)
+
+**Catégories :** Gestion du texte
