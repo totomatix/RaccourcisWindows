@@ -248,3 +248,17 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![gif_result_WIN+p](/gifs/win_p.gif)
 
 **Catégories :** MISC.
+
+### WIN – touches directionnelles
+
+**Combinaison de touches :** *WIN* - *touche directionnelle*
+
+**Description :** 
+
+* WIN + Direction Gauche/Droite : réduire la fenêtre active sur la moitié gauche/droite de l’écran.
+* WIN + Flèche directionnelle Haut : agrandir la fenêtre active.
+* WIN + Flèche directionnelle Bas : réduire la fenêtre active 
+
+**Visuel :** ![gif_result_WIN+p](/gifs/WIN_TouchesDirectionnelles.gif)
+
+**Catégories :** MISC
