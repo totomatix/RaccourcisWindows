@@ -424,3 +424,13 @@ Placer le curseur devant la première lettre de la partie à supprimer, mainteni
 **Visuel :** ![Raccourci clavier avec CTRL-SUPPR](gifs/CTRL_SUPPR.gif "Visuel du raccourci clavier CTRL-SUPPR")
 
 **Catégories :** Gestion du texte
+
+### Selectionner le texte entre le curseur et le début/fin du document.
+
+**Combinaison de touches :** *CTRL* -*maj*-*début*/*fin*
+
+**Description :** sélectionne le texte entre le curseur et le début/fin du document.
+
+**Visuel :**![Raccourci clavier CTRL -maj-début/fin](gifs/CTRL_shift_fin.gif)
+
+**Catégories :** Gestion du texte.
