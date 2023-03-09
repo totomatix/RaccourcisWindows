@@ -180,3 +180,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![Plein écran](gifs/F5.gif)
 
 **Catégories :** MISC
+
+### Déplacer le curseur en début / fin du fichier
+
+**Combinaison de touches :** *CTRL* - *DEBUT/FIN*
+
+**Description :** Permet de déplacer le curseur en début / fin du fichier
+
+**Visuel :** ![Raccourcis clavier CTRL - DEBUT/FIN](gifs/CTRL_DEBUT-FIN.gif)
+
+**Catégories :** Gestion du texte
