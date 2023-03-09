@@ -153,7 +153,7 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 ### Lancer la saisie vocale
 
-**Combinaison de touches :** *WIN* - *D*
+**Combinaison de touches :** *WIN* - *H*
 
 **Description :** Lancer la saisie vocale.
 
