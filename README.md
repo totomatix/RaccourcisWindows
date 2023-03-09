@@ -16,7 +16,8 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Combinaisons de touches :** *CTRL* - *C* ou *CTRL* - *INSER*
 
-**Description :** Les raccourcis permettent de copier une sélection de texte, un dossier ou une image. Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier enfoncée et cliquer sur la lettre C, ou maintenir la touche CTRL (Control) du clavier enfoncée et cliquer sur la touche INSER.
+**Description :** Les raccourcis permettent de copier une sélection de texte, un dossier ou une image.
+Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier enfoncée et appuyer sur la lettre C, ou maintenir la touche CTRL (Control) du clavier enfoncée et appuyer sur la touche INSER.
 
 **Visuel :** ![Raccourci clavier avec CTRL-C ou CTRL-INSER](gifs/CTRL_C_OU_CTRL_INSER.gif "Visuel des raccourcis clavier CTRL-C ou CTRL-INSER")
 
@@ -26,7 +27,8 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Combinaison de touches :** *CTRL* - *N*
 
-**Description :** Le raccourci permet d'ouvrir une nouvelle fenêtre. Il faut maintenir la touche CTRL (Control) du clavier enfoncée et cliquer sur la lettre N.
+**Description :** Le raccourci permet d'ouvrir une nouvelle fenêtre.
+Il faut maintenir la touche CTRL (Control) du clavier enfoncée et appuyer sur la lettre N.
 
 **Visuel :** ![Raccourci clavier avec CTRL-N](gifs/CTRL_N.gif "Visuel du raccourci clavier CTRL-N")
 
@@ -36,8 +38,20 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Combinaison de touches :** *CTRL* - *MAJ* - *N*
 
-**Description :** Le raccourci permet de créer un nouveau dossier dans l'explorateur de fichiers. Il faut maintenir les touches CTRL (Control) et MAJ du clavier enfoncée et cliquer sur la lettre N.
+**Description :** Le raccourci permet de créer un nouveau dossier dans l'explorateur de fichiers.
+Il faut maintenir les touches CTRL (Control) et MAJ du clavier enfoncée et appuyer sur la lettre N.
 
 **Visuel :** ![Raccourci clavier avec CTRL-MAJ-N](gifs/CTRL_MAJ_N.gif "Visuel du raccourci clavier CTRL-MAJ-N")
 
 **Catégories :** MISC
+
+### Efface le texte entre le curseur et la fin du mot
+
+**Combinaison de touches :** *CTRL* - *SUPPR*
+
+**Description :** Le raccourci permet d'effacer le texte entre le curseur et la fin d'un mot, dans l'explorateur de fichiers Windows ou dans un document avec du texte modifiable.
+Placer le curseur devant la première lettre de la partie à supprimer, maintenir les touches CTRL (Control) du clavier enfoncée et appuyer sur la SUPPR.
+
+**Visuel :** ![Raccourci clavier avec CTRL-SUPPR](gifs/CTRL_SUPPR.gif "Visuel du raccourci clavier CTRL-SUPPR")
+
+**Catégories :** Gestion du texte
