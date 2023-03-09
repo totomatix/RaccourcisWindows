@@ -5,29 +5,49 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 ## Sommaire des catégories
 
+<!-- TODO : PN : ajouter les liens vers chaque catégorie -->
+
 ## Catégories
 
 ### Gestion du texte
 
+<!-- TODO : SD : ajouter les liens vers chaque raccourcis de cette catégorie -->
+
 ### Gestion du bureau et des fenêtres
+
+<!-- TODO : ST : ajouter les liens vers chaque raccourcis de cette catégorie -->
 
 ### Gestion du presse-papier
 
+<!-- TODO : JS : ajouter les liens vers chaque raccourcis de cette catégorie -->
+
 ### MISC
+
+<!-- TODO : PC : ajouter les liens vers chaque raccourcis de cette catégorie -->
 
 ### Raccourcis F<chiffre>
 
+<!-- TODO : LL : ajouter les liens vers chaque raccourcis de cette catégorie -->
+
 ### Raccourcis commençant par CTRL
+
+<!-- TODO :  : ajouter les liens vers chaque raccourcis de cette catégorie -->
 
 ### Raccourcis commençant par WIN
 
+<!-- TODO :  : ajouter les liens vers chaque raccourcis de cette catégorie -->
+
 ### Raccourcis commençant par MAJ
+
+<!-- TODO :  : ajouter les liens vers chaque raccourcis de cette catégorie -->
 
 ### Raccourcis commençant par ALT
 
+<!-- TODO :  : ajouter les liens vers chaque raccourcis de cette catégorie -->
+
 ## Liste des raccourcis
 
-### Tout sélectionner
+### Tout sélectionner 
 
 **Combinaison de touches :** *CTRL* - *A*
 
