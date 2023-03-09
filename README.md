@@ -230,3 +230,21 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![ALT_ESPACE.gif](gifs/ALT_ESPACE.gif)
 
 **Catégories :** MISC
+
+### Verrouiller la session.
+
+**Combinaison de touches :** *WIN* - *L*
+
+**Description :** verrouille la session active
+
+**Catégories :** MISC.
+
+### ouvrir la page de propriétés du PC .
+
+**Combinaison de touches :** *WIN* - *p*
+
+**Description :** ouvre la page de propriétés du PC 
+
+**Visuel :** ![gif_result_WIN+p](/gifs/win_p.gif)
+
+**Catégories :** MISC.
