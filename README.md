@@ -110,16 +110,16 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Description :** Permet de renommer l’élément sélectionné
 
 **Visuel :** ![Raccourcis clavier F2](gifs/F2.gif)
+
 ### Plein écran
 
 **Combinaison de touches :** *F11*
 
 **Description :** Passer en mode plein écran
 
-
 **Visuel :** ![Plein écran](gifs/F11.gif)
 
-**Catégories :**	MISC
+**Catégories :** MISC
 
 ### Ouverture explorateur Windows
 
@@ -170,6 +170,16 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![ALT - F4](gifs/ALT_F4.gif)
 
 **Catégories :** Gestion du texte, MISC
+
+### Actualiser la fenêtre active.
+
+**Combinaison de touches :** *F5*
+
+**Description :** Rafraichir la fenêtre active
+
+**Visuel :** ![Plein écran](gifs/F5.gif)
+
+**Catégories :** MISC
 
 ### Déplacer le curseur en début / fin du fichier
 
