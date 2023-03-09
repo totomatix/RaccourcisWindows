@@ -99,8 +99,6 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Description :** verrouille la session active
 
-**Visuel :** ![lock_session_GIF_WIN+l](/gifs/win_l.gif)
-
 **Catégories :** MISC.
 
 ### ouvrir la page de propriétés du PC .
