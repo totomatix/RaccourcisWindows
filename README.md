@@ -191,6 +191,7 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Catégories :** Gestion du texte
 
+
 ### Sélection mot par mot
 
 **Combinaison de touches :** *CRTL* - *Maj* - *flèche directionnelle*
@@ -228,6 +229,117 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Description :** Permet d'ouvrir le menu contextuel de la fenêtre en-cours
 
 **Visuel :** ![ALT_ESPACE.gif](gifs/ALT_ESPACE.gif)
+
+**Catégories :** MISC
+
+### Verrouiller la session.
+
+**Combinaison de touches :** *WIN* - *L*
+
+**Description :** verrouille la session active
+
+**Catégories :** MISC.
+
+### ouvrir la page de propriétés du PC .
+
+**Combinaison de touches :** *WIN* - *p*
+
+**Description :** ouvre la page de propriétés du PC 
+
+**Visuel :** ![gif_result_WIN+p](/gifs/win_p.gif)
+
+**Catégories :** MISC.
+
+### Effacer un mot
+
+**Combinaison de touches :** *CTRL* -*RETOUR ARRIERE*
+
+**Description :** Efface le texte entre le curseur et le début du mot
+**Visuel :**![Raccourci clavier CTRL -RETOUR ARRIERE](gifs/CTRL_BACKPACE.gif)
+
+**Catégories :** Gestion du texte
+
+### Déplacer la fenêtre en cours d’un écran à l’autre
+
+**Combinaison de touches :** *WIN* - *MAJ* - *GAUCHE/DROITE*
+
+**Description :** Permet de déplacer la fenêtre en cours d’un écran à l’autre
+
+**Visuel :** ![Raccourcis clavier WINDOWS - MAJ - GAUCHE/DROITE](gifs/WINDOWS_MAJ_GAUCHE-DROITE.gif)
+
+**Catégories :** Gestion du bureau et des fenêtres
+
+### Sélection de texte lettre par lettre
+
+**Combinaison de touches :** *MAJ* - *touche directionnelle*
+
+**Description :** Permet la sélection de texte lettre par lettre
+
+**Visuel :** ![Raccourcis clavier MAJ – touche directionnelle](gifs/MAJ_ToucheDirectionnelle.gif)
+
+**Catégories :** Gestion du texte
+
+### Entrer/sortir du mode insertion
+
+**Combinaison de touches :** *INSERT* 
+
+**Description :** Permet d'entrer/sortir du mode insertion
+
+**Visuel :** ![Raccourcis clavier INSERT](gifs/INSERT.gif)
+
+**Catégories :** Gestion du texte
+
+### Historique presse papier 
+
+**Combinaison de touches :** *Windows* - *v*
+
+**Description du raccourcis :** Permet d'afficher l'historique du presse papier. Ce qui permet de sélectionner ce que l'on souhaite coller. 
+
+**Visuel :** ![windows+v]( gifs/windows+v.gif)
+
+**Categories :** Gestion du presse-papier (C)
+
+### Ouvrir l’outil de capture Windows 
+
+**Combinaison de touches :** *windows* - *Maj* - *S*
+
+**Description du raccourcis :** Permet  d'ouvrir l’outil de capture d'écran  Windows et de sélectionner une partie ou la totalité de l'écran.
+
+**Visuel :** ![windows+maj+s](gifs/windows+maj+s.gif)
+
+**Categories :** MISC
+
+### Naviguer mot par mot 
+
+**Combinaison de touches :** *CTRL* - *TOUCHES DIRECTIONELLE*
+
+**Description du raccourcis :** Permet de naviguer mot par mot 
+
+**Visuel :** ![CTRL+<-/->](gifs/CTRL+fleche.gif)
+
+**Categories :** MISC
+
+### Rechercher dans la page ou application ouverte.
+
+**Combinaison de touches :** (*CTRL* - *F*) ou *F3*
+
+**Description du racourcis :** Permet d'ouvrir l'outil de recherche (comportement peut différer légèrement en fonction de l’application) 
+
+**Visuel :**![ctrl+f ou f3](gifs/ctrl+f_ou_f3.gif)
+
+**Categories :** MISC
+
+### WIN – touches directionnelles
+
+**Combinaison de touches :** *WIN* - *touche directionnelle*
+
+**Description :** 
+
+* WIN + Direction Gauche/Droite : réduire la fenêtre active sur la moitié gauche/droite de l’écran.
+* WIN + Flèche directionnelle Haut : agrandir la fenêtre active.
+* WIN + Flèche directionnelle Bas : réduire la fenêtre active 
+
+**Visuel :** ![gif_result_WIN+p](/gifs/WIN_TouchesDirectionnelles.gif)
 
 **Catégories :** MISC
 
