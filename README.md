@@ -51,3 +51,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![Raccourcis clavier CTRL - Z](gifs/CTRL_Z.gif)
 
 **Catégories :** MISC
+
+### Placer le curseur en début / fin de ligne
+
+**Combinaison de touches :** *DEBUT*/*FIN*
+
+**Description :** Permet de placer le curseur en début / fin de ligne
+
+**Visuel :** ![Raccourcis clavier DEBUT/FIN](gifs/DEBUT-FIN.gif)
+
+**Catégories :** Gestion du texte
