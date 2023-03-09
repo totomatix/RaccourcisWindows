@@ -1,7 +1,31 @@
-# Raccoucis Windows
+# Raccoucis Windows {#top}
 
 <!-- TODO compléter le paragraphe introductif -->
 Documentation de raccourcis Windows intéressants à connaître pour un développeur.
+
+## Sommaire des catégories
+
+## Catégories
+
+### Gestion du texte
+
+### Gestion du bureau et des fenêtres
+
+### Gestion du presse-papier
+
+### MISC
+
+### Raccourcis F<chiffre>
+
+### Raccourcis commençant par CTRL
+
+### Raccourcis commençant par WIN
+
+### Raccourcis commençant par MAJ
+
+### Raccourcis commençant par ALT
+
+## Liste des raccourcis
 
 ### Tout sélectionner
 
@@ -434,3 +458,5 @@ Placer le curseur devant la première lettre de la partie à supprimer, mainteni
 **Visuel :**![Raccourci clavier CTRL -maj-début/fin](gifs/CTRL_shift_fin.gif)
 
 **Catégories :** Gestion du texte.
+
+[Retourner en haut du document](#top)
