@@ -130,3 +130,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :**   ![windows+E](windows_E.gif)
 
 **Catégories :** Gestion du bureau et des fenetres
+
+### Placer le curseur en début / fin de ligne
+
+**Combinaison de touches :** *DEBUT*/*FIN*
+
+**Description :** Permet de placer le curseur en début / fin de ligne
+
+**Visuel :** ![Raccourcis clavier DEBUT/FIN](gifs/DEBUT-FIN.gif)
+
+**Catégories :** Gestion du texte
