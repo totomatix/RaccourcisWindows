@@ -190,3 +190,12 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![Raccourcis clavier CTRL - DEBUT/FIN](gifs/CTRL_DEBUT-FIN.gif)
 
 **Catégories :** Gestion du texte
+
+### Effacer un mot
+
+**Combinaison de touches :** *CTRL* -*RETOUR ARRIERE*
+
+**Description :** Efface le texte entre le curseur et le début du mot
+**Visuel :**![Raccourci clavier CTRL -RETOUR ARRIERE](gifs/CTRL_BACKPACE.gif)
+
+**Catégories :** Gestion du texte
