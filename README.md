@@ -27,7 +27,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 ### Raccourcis F<chiffre>
 
-<!-- TODO : LL : ajouter les liens vers chaque raccourcis de cette catégorie -->
+[Renommer](#renommer-lélément-sélectionné)
+
+[Rechercher dans la page ou application ouverte](#rechercher-dans-la-page-ou-application-ouverte)
+
+[Actualiser la fenêtre active](#actualiser-la-fenêtre-active)
+
+[Mettre en plein écran](#plein-écran)
 
 ### Raccourcis commençant par CTRL
 
