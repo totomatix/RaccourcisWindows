@@ -277,3 +277,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![Raccourcis clavier MAJ – touche directionnelle](gifs/MAJ_ToucheDirectionnelle.gif)
 
 **Catégories :** Gestion du texte
+
+### Entrer/sortir du mode insertion
+
+**Combinaison de touches :** *INSERT* 
+
+**Description :** Permet d'entrer/sortir du mode insertion
+
+**Visuel :** ![Raccourcis clavier INSERT](gifs/INSERT.gif)
+
+**Catégories :** Gestion du texte
