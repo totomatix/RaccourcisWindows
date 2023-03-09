@@ -9,17 +9,18 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Description :** Selection de tout le document
 
-**Visuel :** ![Raccourcis clavier CTRL - A](gifs/CTRL_A.gif)
+**Visuel :** ![Raccourci clavier CTRL - A](gifs/CTRL_A.gif)
 
 **Catégories :** Gestion du texte, MISC
 
 ### Copier une sélection de texte, un dossier ou une image
 
-**Combinaison de touches :** *CTRL* - *C* ou *CTRL* - *INSER*
+**Combinaisons de touches :** *CTRL* - *C* ou *CTRL* - *INSER*
 
-**Description :** Le raccourci permet de copier une sélection de texte, un dossier ou une image. Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier enfoncée et cliquer sur la lettre C.
+**Description :** Les raccourcis permettent de copier une sélection de texte, un dossier ou une image.
+Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier enfoncée et appuyer sur la lettre C, ou maintenir la touche CTRL (Control) du clavier enfoncée et appuyer sur la touche INSER.
 
-**Visuel :** ![Raccourcis clavier avec Ctrl et Alt](gifs/CTRL_C_OU_CTRL_INSER.gif "Visuel des raccourcis clavier CTRL-C ou CTRL-INSER")
+**Visuel :** ![Raccourci clavier avec CTRL-C ou CTRL-INSER](gifs/CTRL_C_OU_CTRL_INSER.gif "Visuel des raccourcis clavier CTRL-C ou CTRL-INSER")
 
 **Catégories :** Gestion du texte , Gestion du presse-papiers
 
@@ -191,7 +192,6 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Catégories :** Gestion du texte
 
-
 ### Sélection mot par mot
 
 **Combinaison de touches :** *CRTL* - *Maj* - *flèche directionnelle*
@@ -249,12 +249,179 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![gif_result_WIN+p](/gifs/win_p.gif)
 
 **Catégories :** MISC.
+
 ### Effacer un mot
 
 **Combinaison de touches :** *CTRL* -*RETOUR ARRIERE*
 
 **Description :** Efface le texte entre le curseur et le début du mot
 **Visuel :**![Raccourci clavier CTRL -RETOUR ARRIERE](gifs/CTRL_BACKPACE.gif)
+
+**Catégories :** Gestion du texte
+
+### Déplacer la fenêtre en cours d’un écran à l’autre
+
+**Combinaison de touches :** *WIN* - *MAJ* - *GAUCHE/DROITE*
+
+**Description :** Permet de déplacer la fenêtre en cours d’un écran à l’autre
+
+**Visuel :** ![Raccourcis clavier WINDOWS - MAJ - GAUCHE/DROITE](gifs/WINDOWS_MAJ_GAUCHE-DROITE.gif)
+
+**Catégories :** Gestion du bureau et des fenêtres
+
+### Sélection de texte lettre par lettre
+
+**Combinaison de touches :** *MAJ* - *touche directionnelle*
+
+**Description :** Permet la sélection de texte lettre par lettre
+
+**Visuel :** ![Raccourcis clavier MAJ – touche directionnelle](gifs/MAJ_ToucheDirectionnelle.gif)
+
+**Catégories :** Gestion du texte
+
+### Entrer/sortir du mode insertion
+
+**Combinaison de touches :** *INSERT* 
+
+**Description :** Permet d'entrer/sortir du mode insertion
+
+**Visuel :** ![Raccourcis clavier INSERT](gifs/INSERT.gif)
+
+**Catégories :** Gestion du texte
+
+### Historique presse papier 
+
+**Combinaison de touches :** *Windows* - *v*
+
+**Description du raccourcis :** Permet d'afficher l'historique du presse papier. Ce qui permet de sélectionner ce que l'on souhaite coller. 
+
+**Visuel :** ![windows+v]( gifs/windows+v.gif)
+
+**Categories :** Gestion du presse-papier (C)
+
+### Ouvrir l’outil de capture Windows 
+
+**Combinaison de touches :** *windows* - *Maj* - *S*
+
+**Description du raccourcis :** Permet  d'ouvrir l’outil de capture d'écran  Windows et de sélectionner une partie ou la totalité de l'écran.
+
+**Visuel :** ![windows+maj+s](gifs/windows+maj+s.gif)
+
+**Categories :** MISC
+
+### Naviguer mot par mot 
+
+**Combinaison de touches :** *CTRL* - *TOUCHES DIRECTIONELLE*
+
+**Description du raccourcis :** Permet de naviguer mot par mot 
+
+**Visuel :** ![CTRL+<-/->](gifs/CTRL+fleche.gif)
+
+**Categories :** MISC
+
+### Rechercher dans la page ou application ouverte.
+
+**Combinaison de touches :** (*CTRL* - *F*) ou *F3*
+
+**Description du racourcis :** Permet d'ouvrir l'outil de recherche (comportement peut différer légèrement en fonction de l’application) 
+
+**Visuel :**![ctrl+f ou f3](gifs/ctrl+f_ou_f3.gif)
+
+**Categories :** MISC
+
+### WIN – touches directionnelles
+
+**Combinaison de touches :** *WIN* - *touche directionnelle*
+
+**Description :** 
+
+* WIN + Direction Gauche/Droite : réduire la fenêtre active sur la moitié gauche/droite de l’écran.
+* WIN + Flèche directionnelle Haut : agrandir la fenêtre active.
+* WIN + Flèche directionnelle Bas : réduire la fenêtre active 
+
+**Visuel :** ![gif_result_WIN+p](/gifs/WIN_TouchesDirectionnelles.gif)
+
+**Catégories :** MISC
+
+### Mettre fin à une action en cours
+
+**Combinaison de touches :** *ESC* ou *ECHAP*
+
+**Description :** désélectionner la sélection courante/ arrêter ou quitter la tâche en cours
+
+**Visuel :** ![ECHAP.gif](gifs/ECHAP.gif)
+
+**Catégories :** MISC
+
+### Menu des lien rapide
+
+**Combinaison de touches :** *WIN* - *X*
+
+**Description :** Permet d'ouvrir le menu de liens rapides (menu Démarrer alternatiif)
+
+**Visuel :** ![Raccourcis clavier WIN - X](gifs/WIN_X.gif)
+
+**Catégories :** MISC
+
+### Touches rémanentes
+
+**Combinaison de touches :** *MAJ 5 fois*
+
+**Description:** Active/Désactive les touches rémanentes
+**Visuel :** ![Raccourci touche rémanentes](gifs/Remanentes.gif)
+
+**Catégories :** MISC
+
+### Rétabli la dernière modification annulée
+
+**Combinaison de touches :** *CTRL* - *Y* / *CTRL* - *Maj* - *Z*
+
+**Description :** Permet de rétablir la dernière modification annulée (c.a.d après avoir utilisé le raccourcis CTRL-Z) (répétable)
+
+**Visuel :** ![CTRL_Y_OU_CTRL_Maj_Z](gifs/CRTL_Y_OU_CRTL_Maj_Z.gif)
+
+**Catégories :** MISC
+
+### Ferme la fenêtre active
+
+**Combinaison de touches :** *CTRL* - *W* 
+
+**Description :** Permet de fermer la fenêtre active
+
+**Visuel :** ![CTRL_W](gifs/CTRL_W.gif)
+
+**Catégories :** Gestion du bureau et des fenêtres
+
+### Ouvrir une nouvelle fenêtre
+
+**Combinaison de touches :** *CTRL* - *N*
+
+**Description :** Le raccourci permet d'ouvrir une nouvelle fenêtre.
+Il faut maintenir la touche CTRL (Control) du clavier enfoncée et appuyer sur la lettre N.
+
+**Visuel :** ![Raccourci clavier avec CTRL-N](gifs/CTRL_N.gif "Visuel du raccourci clavier CTRL-N")
+
+**Catégories :** Gestion du bureau et des fenêtres
+
+### Créer un nouveau dossier dans l'explorateur de fichiers
+
+**Combinaison de touches :** *CTRL* - *MAJ* - *N*
+
+**Description :** Le raccourci permet de créer un nouveau dossier dans l'explorateur de fichiers.
+Il faut maintenir les touches CTRL (Control) et MAJ du clavier enfoncée et appuyer sur la lettre N.
+
+**Visuel :** ![Raccourci clavier avec CTRL-MAJ-N](gifs/CTRL_MAJ_N.gif "Visuel du raccourci clavier CTRL-MAJ-N")
+
+**Catégories :** MISC
+
+### Efface le texte entre le curseur et la fin du mot
+
+**Combinaison de touches :** *CTRL* - *SUPPR*
+
+**Description :** Le raccourci permet d'effacer le texte entre le curseur et la fin d'un mot, dans l'explorateur de fichiers Windows ou dans un document avec du texte modifiable.
+Placer le curseur devant la première lettre de la partie à supprimer, maintenir les touches CTRL (Control) du clavier enfoncée et appuyer sur la SUPPR.
+
+**Visuel :** ![Raccourci clavier avec CTRL-SUPPR](gifs/CTRL_SUPPR.gif "Visuel du raccourci clavier CTRL-SUPPR")
 
 **Catégories :** Gestion du texte
 
@@ -267,4 +434,3 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :**![Raccourci clavier CTRL -maj-début/fin](gifs/CTRL_shift_fin.gif)
 
 **Catégories :** Gestion du texte.
-
