@@ -31,7 +31,33 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 ### Raccourcis commençant par CTRL
 
-<!-- TODO :  : ajouter les liens vers chaque raccourcis de cette catégorie -->
+<!-- TODO : JOS : ajouter les liens vers chaque raccourcis de cette catégorie -->
+[Tout sélectionner](#tout-sélectionner)
+
+[Copier](#copier-une-sélection-de-texte-un-dossier-ou-une-image)
+
+[Couper](#couper)
+
+[Annuler](#annuler-la-dernière-modification)
+
+[Sauvegarder](#sauvegarder-le-fichier-actif)
+
+[Curseur début/fin de fichier](#déplacer-le-curseur-en-début--fin-du-fichier)
+
+[Effacer le mot précédent](#effacer-un-mot)
+
+[Effacer le mot suivant](#efface-le-texte-entre-le-curseur-et-la-fin-du-mot)
+
+[Rétablir](#rétabli-la-dernière-modification-annulée)
+
+[Fermer](#ferme-la-fenêtre-active)
+
+[Rechercher](#rechercher-dans-la-page-ou-application-ouverte)
+
+[Nouvelle fenêtre](#ouvrir-une-nouvelle-fenêtre)
+
+[Nouveau Dossier](#créer-un-nouveau-dossier-dans-lexplorateur-de-fichiers)
+
 
 ### Raccourcis commençant par WIN
 
