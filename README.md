@@ -361,3 +361,12 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![Raccourcis clavier WIN - X](gifs/WIN_X.gif)
 
 **Catégories :** MISC
+
+### Touches rémanentes
+
+**Combinaison de touches :** *MAJ 5 fois*
+
+**Description:** Active/Désactive les touches rémanentes
+**Visuel :** ![Raccourci touche rémanentes](gifs/Remanentes.gif)
+
+**Catégories :** MISC
