@@ -46,7 +46,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 ### Gestion du presse-papier
 
 <!-- TODO : JS : ajouter les liens vers chaque raccourcis de cette catégorie -->
+[Historique presse papier](#historique-presse-papier)
 
+[couper](#couper) 
+
+[Copier une sélection de texte, un dossier ou une image](#copier-unesélection-de-texte-un-dossier-ou-une-image)
+
+[coller](#coller) 
 ### MISC
 
 <!-- TODO : PC : ajouter les liens vers chaque raccourcis de cette catégorie -->
@@ -102,6 +108,11 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 ### Raccourcis commençant par ALT
 
 <!-- TODO :  : ajouter les liens vers chaque raccourcis de cette catégorie -->
+[Naviguer entre les fenêtres](#naviguation-entre-les-fenêtres)
+
+[ouvrir le menu contextuel de la fenêtre en cours](#ouvre-le-menu-contextuel-de-la-fenêtre-en-cours)
+
+[Pour fermer la fenêtre active](#pour-fermer-la-fenêtre-active)
 
 ## Liste des raccourcis
 
