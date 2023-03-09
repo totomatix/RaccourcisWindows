@@ -20,7 +20,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 ### Gestion du presse-papier
 
 <!-- TODO : JS : ajouter les liens vers chaque raccourcis de cette catégorie -->
+[Historique presse papier](#historique-presse-papier)
 
+[couper](#couper) 
+
+[Copier une sélection de texte, un dossier ou une image](#copier-une-sélection-de-texte-un-dossier-ou-une-image)
+
+[coller](#coller) 
 ### MISC
 
 <!-- TODO : PC : ajouter les liens vers chaque raccourcis de cette catégorie -->
