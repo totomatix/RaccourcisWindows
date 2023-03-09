@@ -92,3 +92,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![result**GIF*_ALT+TAB_](alt_tab.gif)
 
 **Catégories :** Gestion du bureau et des fenêtres.
+
+### Verrouiller la session.
+
+**Combinaison de touches :** *WIN* - *L*
+
+**Description :** verrouille la session active
+
+**Visuel :** ![result**GIF*_WIN+l](win_l.gif)
+
+**Catégories :** MISC.
