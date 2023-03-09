@@ -257,3 +257,14 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :**![Raccourci clavier CTRL -RETOUR ARRIERE](gifs/CTRL_BACKPACE.gif)
 
 **Catégories :** Gestion du texte
+
+### Selectionner le texte entre le curseur et le début/fin du document.
+
+**Combinaison de touches :** *CTRL* -*maj*-*début*/*fin*
+
+**Description :** sélectionne le texte entre le curseur et le début/fin du document.
+
+**Visuel :**![Raccourci clavier CTRL -maj-début/fin](gifs/CTRL_shift_fin.gif)
+
+**Catégories :** Gestion du texte.
+
