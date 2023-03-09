@@ -1,4 +1,4 @@
-# Raccoucis Windows {#top}
+# Raccourcis Windows
 
 <!-- TODO compléter le paragraphe introductif -->
 Documentation de raccourcis Windows intéressants à connaître pour un développeur.
@@ -479,4 +479,4 @@ Placer le curseur devant la première lettre de la partie à supprimer, mainteni
 
 **Catégories :** Gestion du texte.
 
-[Retourner en haut du document](#top)
+[Retourner en haut du document](#raccourcis-windows)
