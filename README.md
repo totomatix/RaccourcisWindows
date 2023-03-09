@@ -257,3 +257,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :**![Raccourci clavier CTRL -RETOUR ARRIERE](gifs/CTRL_BACKPACE.gif)
 
 **Catégories :** Gestion du texte
+
+### Déplacer la fenêtre en cours d’un écran à l’autre
+
+**Combinaison de touches :** *WIN* - *MAJ* - *GAUCHE/DROITE*
+
+**Description :** Permet de déplacer la fenêtre en cours d’un écran à l’autre
+
+**Visuel :** ![Raccourcis clavier WINDOWS - MAJ - GAUCHE/DROITE](gifs/WINDOWS_MAJ_GAUCHE-DROITE.gif)
+
+**Catégories :** Gestion du bureau et des fenêtres
