@@ -5,23 +5,23 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 ## Sommaire des catégories
 
-[Gestion du texte](#-Gestion-du-texte)
+[Gestion du texte](#-gestion-du-texte)
 
-[Gestion du bureau et des fenêtres](#-Gestion-du-bureau-et-des-fenetres)
+[Gestion du bureau et des fenêtres](#-gestion-du-bureau-et-des-fenetres)
 
-[Gestion du presse-papier](#-Gestion-du-presse-papier)
+[Gestion du presse-papier](#-gestion-du-presse-papier)
 
-[MISC](#-MISC)
+[MISC](#-misc)
 
-[Raccourcis F<chiffre>](#-Raccourcis-F<chiffre>)
+[Raccourcis F<chiffre>](#-raccourcis-f<chiffre>)
 
-[Raccourcis commençant par CTRL](#-Raccourcis-commençant-par-CTRL)
+[Raccourcis commençant par CTRL](#raccourcis-commençant-par-ctrl)
 
-[Raccourcis commençant par WIN](#-Raccourcis-com-ençant-par-WIN)
+[Raccourcis commençant par WIN](#-raccourcis-com-ençant-par-win)
 
-[Raccourcis commençant par MAJ](#-Raccourcis-com-ençant-par-MAJ)
+[Raccourcis commençant par MAJ](#-raccourcis-com-ençant-par-maj)
 
-[Raccourcis commençant par ALT](#-Raccourcis-com-ençant-par-ALT)
+[Raccourcis commençant par ALT](#-raccourcis-com-ençant-par-alt)
 
 ## Catégories
 
