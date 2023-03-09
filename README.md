@@ -102,3 +102,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![result**GIF*_WIN+l](win_l.gif)
 
 **Catégories :** MISC.
+
+### ouvrir la page de propriétés du PC .
+
+**Combinaison de touches :** *WIN* - *p*
+
+**Description :** ouvre la page de propriétés du PC 
+
+**Visuel :** ![gif_result_WIN+p](/gifs/win_p.gif)
+
+**Catégories :** MISC.
