@@ -1,4 +1,4 @@
-# Raccourcis Windows
+# Raccoucis Windows
 
 <!-- TODO compléter le paragraphe introductif -->
 Documentation de raccourcis Windows intéressants à connaître pour un développeur.
@@ -121,6 +121,76 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Catégories :**	MISC
 
+### Ouverture explorateur Windows
+
+**Combinaison de touches :** *Windows* - *E*
+
+**Description :** Ouvrir l’explorateur de fichiers Windows  
+
+**Visuel :**   ![windows+E](windows_E.gif)
+
+**Catégories :** Gestion du bureau et des fenetres
+
+### Placer le curseur en début / fin de ligne
+
+**Combinaison de touches :** *DEBUT*/*FIN*
+
+**Description :** Permet de placer le curseur en début / fin de ligne
+
+**Visuel :** ![Raccourcis clavier DEBUT/FIN](gifs/DEBUT-FIN.gif)
+
+**Catégories :** Gestion du texte
+
+### Masquer toutes les fenêtres
+
+**Combinaison de touches :** *WIN* - *D*
+
+**Description :** Afficher et masquer le bureau.
+
+**Visuel :** ![WIN - D](gifs/WIN_D.gif)
+
+**Catégories :** Gestion du bureau et des fenêtres
+
+### Lancer la saisie vocale
+
+**Combinaison de touches :** *WIN* - *H*
+
+**Description :** Lancer la saisie vocale.
+
+**Visuel :** ![WIN - D](gifs/WIN_H.gif)
+
+**Catégories :** MISC
+
+### Pour fermer la fenêtre active
+
+**Combinaison de touches :** *ALT* - *F4*
+
+**Description :** Pour fermer la fenêtre active
+
+**Visuel :** ![ALT - F4](gifs/ALT_F4.gif)
+
+**Catégories :** Gestion du texte, MISC
+
+### Actualiser la fenêtre active.
+
+**Combinaison de touches :** *F5*
+
+**Description :** Rafraichir la fenêtre active
+
+**Visuel :** ![Plein écran](gifs/F5.gif)
+
+**Catégories :** MISC
+
+### Déplacer le curseur en début / fin du fichier
+
+**Combinaison de touches :** *CTRL* - *DEBUT/FIN*
+
+**Description :** Permet de déplacer le curseur en début / fin du fichier
+
+**Visuel :** ![Raccourcis clavier CTRL - DEBUT/FIN](gifs/CTRL_DEBUT-FIN.gif)
+
+**Catégories :** Gestion du texte
+
 ### Sélection mot par mot
 
 **Combinaison de touches :** *CRTL* - *Maj* - *flèche directionnelle*
@@ -160,4 +230,3 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![ALT_ESPACE.gif](gifs/ALT_ESPACE.gif)
 
 **Catégories :** MISC
-
