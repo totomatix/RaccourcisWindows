@@ -99,7 +99,7 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Description :** verrouille la session active
 
-**Visuel :** ![result**GIF*_WIN+l](win_l.gif)
+**Visuel :** ![lock_session_GIF_WIN+l](/gifs/win_l.gif)
 
 **Catégories :** MISC.
 
