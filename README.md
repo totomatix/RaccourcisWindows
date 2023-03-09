@@ -342,3 +342,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![gif_result_WIN+p](/gifs/WIN_TouchesDirectionnelles.gif)
 
 **Catégories :** MISC
+
+### Mettre fin à une action en cours
+
+**Combinaison de touches :** *ESC* ou *ECHAP*
+
+**Description :** désélectionner la sélection courante/ arrêter ou quitter la tâche en cours
+
+**Visuel :** ![ECHAP.gif](gifs/ECHAP.gif)
+
+**Catégories :** MISC
