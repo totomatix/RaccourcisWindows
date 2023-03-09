@@ -370,3 +370,23 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![Raccourci touche rémanentes](gifs/Remanentes.gif)
 
 **Catégories :** MISC
+
+### Rétabli la dernière modification annulée
+
+**Combinaison de touches :** *CTRL* - *Y* / *CTRL* - *Maj* - *Z*
+
+**Description :** Permet de rétablir la dernière modification annulée (c.a.d après avoir utilisé le raccourcis CTRL-Z) (répétable)
+
+**Visuel :** ![CTRL_Y_OU_CTRL_Maj_Z](gifs/CRTL_Y_OU_CRTL_Maj_Z.gif)
+
+**Catégories :** MISC
+
+### Ferme la fenêtre active
+
+**Combinaison de touches :** *CTRL* - *W* 
+
+**Description :** Permet de fermer la fenêtre active
+
+**Visuel :** ![CTRL_W](gifs/CTRL_W.gif)
+
+**Catégories :** Gestion du bureau et des fenêtres
