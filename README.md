@@ -191,7 +191,6 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Catégories :** Gestion du texte
 
-
 ### Sélection mot par mot
 
 **Combinaison de touches :** *CRTL* - *Maj* - *flèche directionnelle*
@@ -249,6 +248,7 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![gif_result_WIN+p](/gifs/win_p.gif)
 
 **Catégories :** MISC.
+
 ### Effacer un mot
 
 **Combinaison de touches :** *CTRL* -*RETOUR ARRIERE*
@@ -287,6 +287,80 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![Raccourcis clavier INSERT](gifs/INSERT.gif)
 
 **Catégories :** Gestion du texte
+
+### Historique presse papier 
+
+**Combinaison de touches :** *Windows* - *v*
+
+**Description du raccourcis :** Permet d'afficher l'historique du presse papier. Ce qui permet de sélectionner ce que l'on souhaite coller. 
+
+**Visuel :** ![windows+v]( gifs/windows+v.gif)
+
+**Categories :** Gestion du presse-papier (C)
+
+### Ouvrir l’outil de capture Windows 
+
+**Combinaison de touches :** *windows* - *Maj* - *S*
+
+**Description du raccourcis :** Permet  d'ouvrir l’outil de capture d'écran  Windows et de sélectionner une partie ou la totalité de l'écran.
+
+**Visuel :** ![windows+maj+s](gifs/windows+maj+s.gif)
+
+**Categories :** MISC
+
+### Naviguer mot par mot 
+
+**Combinaison de touches :** *CTRL* - *TOUCHES DIRECTIONELLE*
+
+**Description du raccourcis :** Permet de naviguer mot par mot 
+
+**Visuel :** ![CTRL+<-/->](gifs/CTRL+fleche.gif)
+
+**Categories :** MISC
+
+### Rechercher dans la page ou application ouverte.
+
+**Combinaison de touches :** (*CTRL* - *F*) ou *F3*
+
+**Description du racourcis :** Permet d'ouvrir l'outil de recherche (comportement peut différer légèrement en fonction de l’application) 
+
+**Visuel :**![ctrl+f ou f3](gifs/ctrl+f_ou_f3.gif)
+
+**Categories :** MISC
+
+### WIN – touches directionnelles
+
+**Combinaison de touches :** *WIN* - *touche directionnelle*
+
+**Description :** 
+
+* WIN + Direction Gauche/Droite : réduire la fenêtre active sur la moitié gauche/droite de l’écran.
+* WIN + Flèche directionnelle Haut : agrandir la fenêtre active.
+* WIN + Flèche directionnelle Bas : réduire la fenêtre active 
+
+**Visuel :** ![gif_result_WIN+p](/gifs/WIN_TouchesDirectionnelles.gif)
+
+**Catégories :** MISC
+
+### Mettre fin à une action en cours
+
+**Combinaison de touches :** *ESC* ou *ECHAP*
+
+**Description :** désélectionner la sélection courante/ arrêter ou quitter la tâche en cours
+
+**Visuel :** ![ECHAP.gif](gifs/ECHAP.gif)
+
+**Catégories :** MISC
+
+### Menu des lien rapide
+
+**Combinaison de touches :** *WIN* - *X*
+
+**Description :** Permet d'ouvrir le menu de liens rapides (menu Démarrer alternatiif)
+
+**Visuel :** ![Raccourcis clavier WIN - X](gifs/WIN_X.gif)
+
+**Catégories :** MISC
 
 ### Touches rémanentes
 
