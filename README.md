@@ -190,3 +190,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![Raccourcis clavier CTRL - DEBUT/FIN](gifs/CTRL_DEBUT-FIN.gif)
 
 **Catégories :** Gestion du texte
+
+### Menu des lien rapide
+
+**Combinaison de touches :** *WIN* - *X*
+
+**Description :** Permet d'ouvrir le menu de liens rapides (menu Démarrer alternatiif)
+
+**Visuel :** ![Raccourcis clavier WIN - X](gifs/WIN_X.gif)
+
+**Catégories :** MISC
