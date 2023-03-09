@@ -41,7 +41,17 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 ### Gestion du bureau et des fenêtres
 
-<!-- TODO : ST : ajouter les liens vers chaque raccourcis de cette catégorie -->
+[Afficher les tâches](#afficher-les-tâches)
+
+[Naviguation entre les fenêtres](#naviguation-entre-les-fenêtres)
+
+[Masquer toutes les fenêtres](#masquer-toutes-les-fenêtres)
+
+[Déplacer la fenêtre en cours d’un écran à l’autre](#déplacer-la-fenêtre-en-cours-dun-écran-à-lautre)
+
+[Ferme la fenêtre active](#ferme-la-fenêtre-active)
+
+[Ouvrir une nouvelle fenêtre](#ouvrir-une-nouvelle-fenêtre)
 
 ### Gestion du presse-papier
 
@@ -99,11 +109,53 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 ### Raccourcis commençant par WIN
 
-<!-- TODO :  : ajouter les liens vers chaque raccourcis de cette catégorie -->
+[Menu executer](#menu-executer)
+
+[Ouvrir la page de propriétés du PC](#ouvrir-la-page-de-propriétés-du-PC)
+
+[Ouvrir le menu démarrer](#ouvrir-le-menu-démarrer)
+
+[Ouverture explorateur Windows](#ouverture-explorateur-Windows)
+
+[Masquer toutes les fenêtres](#masquer-toutes-les-fenêtres)
+
+[Lancer la saisie vocale](#lancer-la-saisie-vocale) 
+
+[Accéder aux paramètres Windows](#accéder-aux-paramètres-Windows)
+
+[Verrouiller la session](#verrouiller-la-session)
+
+[Déplacer la fenêtre en cours d’un écran à l’autre](#déplacer-la-fenêtre-en-cours-dun-écran-à-lautre)
+
+[Historique presse papier ](#historique-presse-papier)
+
+[Ouvrir l’outil de capture Windows ](#ouvrir-loutil-de-capture-Windows)
+
+[WIN – touches directionnelles](#win-–-touches-directionnelles)
+
+[Menu des lien rapide](#menu-des-lien-rapide)
 
 ### Raccourcis commençant par MAJ
 
-<!-- TODO :  : ajouter les liens vers chaque raccourcis de cette catégorie -->
+[Couper](#couper)
+
+[Sélection mot par mot](#sélection-mot-par-mot)
+
+[Coller](#coller)
+
+[Déplacer la fenêtre en cours d’un écran à l’autre](#déplacer-la-fenêtre-en-cours-dun-écran-à-lautre)
+
+[Sélection de texte lettre par lettre](#sélection-de-texte-lettre-par-lettre)
+
+[Ouvrir l’outil de capture Windows ](#ouvrir-loutil-de-capture-windows)
+
+[Touches rémanentes](#touches-rémanentes)
+
+[Rétabli la dernière modification annulée](#rétabli-la-dernière-modification-annulée)
+
+[Créer un nouveau dossier dans l'explorateur de fichiers](#créer-un-nouveau-dossier-dans-lexplorateur-de-fichiers)
+
+[Selectionner le texte entre le curseur et le début/fin du document](#selectionner-le-texte-entre-le-curseur-et-le-débutfin-du-document)
 
 ### Raccourcis commençant par ALT
 
