@@ -267,3 +267,13 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Visuel :** ![Raccourcis clavier WINDOWS - MAJ - GAUCHE/DROITE](gifs/WINDOWS_MAJ_GAUCHE-DROITE.gif)
 
 **Catégories :** Gestion du bureau et des fenêtres
+
+### Sélection de texte lettre par lettre
+
+**Combinaison de touches :** *MAJ* - *touche directionnelle*
+
+**Description :** Permet la sélection de texte lettre par lettre
+
+**Visuel :** ![Raccourcis clavier MAJ – touche directionnelle](gifs/MAJ_ToucheDirectionnelle.gif)
+
+**Catégories :** Gestion du texte
