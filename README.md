@@ -12,6 +12,32 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 ### Gestion du texte
 
 <!-- TODO : SD : ajouter les liens vers chaque raccourcis de cette catégorie -->
+**Catégories :**  MISC
+
+[Tout sélectionner](#tout-sélectionner)
+
+[Copier une sélection de texte, un dossier ou une image](#copier-une-sélection-de-texte-un-dossier-ou-une-image)
+
+[Couper](#couper-le-texte-selectionné )
+
+[Placer le curseur en début / fin de ligne](#placer-le-curseur-en-début--fin-de-ligne)
+
+[Déplacer le curseur en début / fin du fichier](#déplacer-le-curseur-en-début--fin-du-fichier)
+
+[Sélection mot par mot](#sélection-mot-par-mot)
+
+[Permet de coller un mot, du texte ou autre (image), déposer dans le presse-papier](#coller)
+
+[Effacer un mot](#effacer-un-mot)
+
+[Sélection de texte lettre par lettre](#sélection-de-texte-lettre-par-lettre)
+
+[Entrer/sortir du mode insertion](#entrersortir-du-mode-insertion)
+
+[Efface le texte entre le curseur et la fin du mot](#efface-le-texte-entre-le-curseur-et-la-fin-du-mot)
+
+[Selectionner le texte entre le curseur et le début/fin du document](#selectionner-le-texte-entre-le-curseur-et-le-débutfin-du-document)
+
 
 ### Gestion du bureau et des fenêtres
 
@@ -55,7 +81,7 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Visuel :** ![Raccourci clavier CTRL - A](gifs/CTRL_A.gif)
 
-**Catégories :** Gestion du texte, MISC
+**Catégories :** , MISC
 
 ### Copier une sélection de texte, un dossier ou une image
 
@@ -76,7 +102,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![couper](gifs/couper.gif)
 
-**Catégories :** Gestion du texte, MISC
+**Catégories :** , MISC
 
 ### Menu executer
 
@@ -480,3 +506,6 @@ Placer le curseur devant la première lettre de la partie à supprimer, mainteni
 **Catégories :** Gestion du texte.
 
 [Retourner en haut du document](#raccourcis-windows)
+
+
+[def]: #tout-sélectionner
