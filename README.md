@@ -110,13 +110,54 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Description :** Permet de renommer l’élément sélectionné
 
 **Visuel :** ![Raccourcis clavier F2](gifs/F2.gif)
+
 ### Plein écran
 
 **Combinaison de touches :** *F11*
 
 **Description :** Passer en mode plein écran
 
-
 **Visuel :** ![Plein écran](gifs/F11.gif)
 
 **Catégories :**	MISC
+
+### Sélection mot par mot
+
+**Combinaison de touches :** *CRTL* - *Maj* - *flèche directionnelle*
+
+**Description :** Permet de sélectionner du texte mot par mot, à l'aide des touches directionnelles (Droite ou Gauche)
+
+**Visuel :** ![CRTL_Maj.gif](gifs/CRTL_Maj.gif)
+
+**Catégories :** Gestion du texte
+
+### Coller
+
+**Combinaison de touches :** *CRTL* - *V* ou *Maj* - *INSER*
+
+**Description :** Permet de coller un mot, du texte ou autre (image), déposer dans le presse-papier.
+
+**Visuel :** ![CRTL_V_OR_MAJ_INSER.gif](gifs/CTRL_V_OR_MAJ_INSER.gif)
+
+**Catégories :** Gestion du texte et Gestion du presse-papier
+
+### Accéder aux paramètres Windows
+
+**Combinaison de touches :** *WIN* - *I* 
+
+**Description :** Permet d'accéder aux paramètres de Windows
+
+**Visuel :** ![WIN_I.gif](gifs/WIN_I.gif)
+
+**Catégories :** MISC
+
+### Ouvre le menu contextuel de la fenêtre en-cours
+
+**Combinaison de touches :** *ALT* - *BARRE ESPACE* 
+
+**Description :** Permet d'ouvrir le menu contextuel de la fenêtre en-cours
+
+**Visuel :** ![ALT_ESPACE.gif](gifs/ALT_ESPACE.gif)
+
+**Catégories :** MISC
+
