@@ -191,7 +191,6 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Catégories :** Gestion du texte
 
-
 ### Sélection mot par mot
 
 **Combinaison de touches :** *CRTL* - *Maj* - *flèche directionnelle*
@@ -350,5 +349,15 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 **Description :** désélectionner la sélection courante/ arrêter ou quitter la tâche en cours
 
 **Visuel :** ![ECHAP.gif](gifs/ECHAP.gif)
+
+**Catégories :** MISC
+
+### Menu des lien rapide
+
+**Combinaison de touches :** *WIN* - *X*
+
+**Description :** Permet d'ouvrir le menu de liens rapides (menu Démarrer alternatiif)
+
+**Visuel :** ![Raccourcis clavier WIN - X](gifs/WIN_X.gif)
 
 **Catégories :** MISC
