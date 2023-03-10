@@ -24,6 +24,31 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 ### MISC
 
 <!-- TODO : PC : ajouter les liens vers chaque raccourcis de cette catégorie -->
+[Tout sélectionner](#tout-sélectionner)
+[Copier une sélection de texte un dossier ou une image](#copier-une-sélection-de-texte-un-dossier-ou-une-image)
+[Couper](#Couper)
+[Menu executer](#menu-executer)
+[Annuler la dernière modification](#Annuler-la-dernière-modification)
+[Ouvrir la page de propriétés du PC](#ouvrir-la-page-de-propriétés-du-PC)
+[Ouvrir le menu démarrer](#ouvrir-le-menu-démarrer)
+[Sauvegarder le fichier actif](#sauvegarder-le-fichier-actif)
+[Plein écran](#plein-écran)
+[Lancer la saisie vocale](#lancer-la-saisie-vocale)
+[Pour fermer la fenêtre active](#pour-fermer-la-fenêtre-active)
+[Actualiser la fenêtre active](#actualiser-la-fenêtre-active)
+[Ouvre le menu contextuel de la fenêtre en-cours](#ouvre-le-menu-contextuel-de-la-fenêtre-en-cours)
+[ouvrir la page de propriétés du PC](#ouvrir-la-page-de-propriétés-du-PC)
+[Naviguer mot par mot](#naviguer-mot-par-mot)
+[Rechercher dans la page ou application ouverte](#rechercher-dans-la-page-ou-application-ouverte)
+[Rechercher dans la page ou application ouverte](#rechercher-dans-la-page-ou-application-ouverte)
+[WIN – touches directionnelles](#wIN–touches-directionnelles)
+[Mettre fin à une action en cours](#mettre-fin-à-une-action-en-cours)
+[Menu des liens rapides](#menu-des-liens-rapides)
+[Touches rémanentes](#touches-rémanentes)
+[Rétabli la dernière modification annulée](#rétabli-la-dernière-modification-annulée)
+[Créer un nouveau dossier dans l'explorateur de fichiers](#créer-un-nouveau-dossier-dans-l-explorateur-de-fichiers)
+[Gestion des bureaux et fenêtre](#gestion-du-bureau-et-des-fenêtres)
+
 
 ### Raccourcis F<chiffre>
 
