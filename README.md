@@ -128,31 +128,31 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 ### Raccourcis commençant par WIN
 
-[Menu exécuter](#menu-executer)
+[Menu exécuter](#menu-exécuter)
 
-[Ouvrir la page de propriétés du PC](#ouvrir-la-page-de-propriétés-du-PC)
+[Ouvrir la page de propriétés du PC](#ouvre-la-page-des-propriétés-du-pc)
 
-[Ouvrir le menu démarrer](#ouvrir-le-menu-démarrer)
+[Ouvrir le menu démarrer](#ouvre-le-menu-démarrer)
 
-[Ouverture explorateur Windows](#ouverture-explorateur-Windows)
+[Ouverture explorateur Windows](#ouverture-explorateur-windows)
 
-[Masquer toutes les fenêtres](#masquer-toutes-les-fenêtres)
+[Masquer toutes les fenêtres](#masque-toutes-les-fenêtres)
 
-[Lancer la saisie vocale](#lancer-la-saisie-vocale) 
+[Lancer la saisie vocale](#lance-la-saisie-vocale) 
 
-[Accéder aux paramètres Windows](#accéder-aux-paramètres-Windows)
+[Accéder aux paramètres Windows](#accéde-aux-paramètres-windows)
 
-[Verrouiller la session](#verrouiller-la-session)
+[Verrouiller la session](#verrouille-la-session)
 
-[Déplacer la fenêtre en cours d’un écran à l’autre](#déplacer-la-fenêtre-en-cours-dun-écran-à-lautre)
+[Déplacer la fenêtre en cours d’un écran à l’autre](#déplace-la-fenêtre-en-cours-dun-écran-à-lautre)
 
-[Historique presse papier ](#historique-presse-papier)
+[Historique presse papier ](#historique-du-presse-papier)
 
-[Ouvrir l’outil de capture Windows ](#ouvrir-loutil-de-capture-Windows)
+[Ouvrir l’outil de capture Windows ](#ouvre-loutil-de-capture-windows)
 
 [WIN – touches directionnelles](#win-–-touches-directionnelles)
 
-[Menu des lien rapide](#menu-des-lien-rapide)
+[Menu des liens rapide](#menu-des-liens-rapides)
 
 ### Raccourcis commençant par MAJ
 
