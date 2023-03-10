@@ -1,6 +1,5 @@
 # Raccourcis Windows
 
-<!-- TODO compléter le paragraphe introductif -->
 Documentation de raccourcis Windows intéressants à connaître pour un développeur. Ce document est composé de plusieurs catégories redirigeant vers les raccourcis liés ;
 Les raccourcis sont présents en fin de document, après les catégories.
 Des liens entre les différentes parties du document seront présents afin d’améliorer la navigabilité. 
@@ -30,7 +29,6 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 ### Gestion du texte
 
-<!-- TODO : SD : ajouter les liens vers chaque raccourcis de cette catégorie -->
 **Catégories :**  MISC
 
 [Tout sélectionner](#tout-sélectionner)
@@ -74,7 +72,6 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 ### Gestion du presse-papier
 
-<!-- TODO : JS : ajouter les liens vers chaque raccourcis de cette catégorie -->
 [Historique presse papier](#historique-presse-papier)
 
 [couper](#couper) 
@@ -83,8 +80,6 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 [coller](#coller) 
 ### MISC
-
-<!-- TODO : PC : ajouter les liens vers chaque raccourcis de cette catégorie -->
 
 ### Raccourcis F<chiffre>
 
@@ -98,7 +93,6 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 ### Raccourcis commençant par CTRL
 
-<!-- TODO : JOS : ajouter les liens vers chaque raccourcis de cette catégorie -->
 [Tout sélectionner](#tout-sélectionner)
 
 [Copier](#copier-une-sélection-de-texte-un-dossier-ou-une-image)
@@ -178,7 +172,6 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 ### Raccourcis commençant par ALT
 
-<!-- TODO :  : ajouter les liens vers chaque raccourcis de cette catégorie -->
 [Naviguer entre les fenêtres](#naviguation-entre-les-fenêtres)
 
 [ouvrir le menu contextuel de la fenêtre en cours](#ouvre-le-menu-contextuel-de-la-fenêtre-en-cours)
