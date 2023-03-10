@@ -173,6 +173,8 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 [Selectionner le texte entre le curseur et le début/fin du document](#selectionner-le-texte-entre-le-curseur-et-le-débutfin-du-document)
 
+[Afficher le menu contextuel](#afficher-le-menu-contextuel)
+
 ### Raccourcis commençant par ALT
 
 <!-- TODO :  : ajouter les liens vers chaque raccourcis de cette catégorie -->
@@ -615,6 +617,16 @@ Placer le curseur devant la première lettre de la partie à supprimer, mainteni
 **Visuel :**![Raccourci clavier CTRL -maj-début/fin](gifs/CTRL_shift_fin.gif)
 
 **Catégories :** Gestion du texte.
+
+### Afficher le menu contextuel.
+
+**Combinaison de touches :** *MAJ* - *F10*
+
+**Description :** Afficher le menu contextuel de la selection en cours.
+
+**Visuel :**![MAJ - F10](gifs/MAJ_F10.gif)
+
+**Catégories :** MISC.
 
 [Retourner en haut du document](#raccourcis-windows)
 
