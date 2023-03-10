@@ -436,6 +436,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 **Combinaison de touches :** *CTRL* -*RETOUR ARRIERE*
 
 **Description :** Efface le texte entre le curseur et le début du mot
+
 **Visuel :**![Raccourci clavier CTRL -RETOUR ARRIERE](gifs/CTRL_BACKPACE.gif)
 
 **Catégories :** Gestion du texte
@@ -549,6 +550,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 **Combinaison de touches :** *MAJ 5 fois*
 
 **Description:** Active/Désactive les touches rémanentes
+
 **Visuel :** ![Raccourci touche rémanentes](gifs/Remanentes.gif)
 
 **Catégories :** MISC
