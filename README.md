@@ -177,6 +177,8 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 [Sélectionner le texte entre le curseur et le début/fin du document](#selectionner-le-texte-entre-le-curseur-et-le-débutfin-du-document)
 
+[Afficher le menu contextuel](#afficher-le-menu-contextuel)
+
 ### Raccourcis commençant par ALT
 
 [Naviguer entre les fenêtres](#naviguation-entre-les-fenêtres)
@@ -640,6 +642,15 @@ Il suffit de maintenir enfoncée les touches CTRL (Control), MAJ et ECHAP (ESC) 
 **Visuel :**![Raccourci clavier avec CTRL-MAJ-ECHAP](gifs/CTRL_MAJ_ECHAP.gif "Visuel du raccourci clavier CTRL-N")
 
 **Catégories :** MISC
+### Afficher le menu contextuel.
+
+**Combinaison de touches :** *MAJ* - *F10*
+
+**Description :** Afficher le menu contextuel de la selection en cours.
+
+**Visuel :**![MAJ - F10](gifs/MAJ_F10.gif)
+
+**Catégories :** MISC.
 
 [Retourner en haut du document](#raccourcis-windows)
 
