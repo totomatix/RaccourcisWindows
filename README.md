@@ -34,6 +34,8 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 [Copier une sélection de texte, un dossier ou une image](#copier-une-sélection-de-texte-un-dossier-ou-une-image)
 
+[Ouvrir le gestionnaire des tâches](#ouvrir-le-gestionnaire-des-tâches)
+
 [Couper](#couper-le-texte-selectionné )
 
 [Placer le curseur en début / fin de ligne](#placer-le-curseur-en-début--fin-de-ligne)
@@ -101,6 +103,8 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 [Copier](#copier-une-sélection-de-texte-un-dossier-ou-une-image)
 
 [Couper](#couper)
+
+[Ouvrir le gestionnaire des tâches](#ouvrir-le-gestionnaire-des-tâches)
 
 [Annuler](#annuler-la-dernière-modification)
 
@@ -309,7 +313,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Description :** Ouvrir l’explorateur de fichiers Windows  
 
-**Visuel :**   ![windows+E](gifs/windows_E.gif)
+**Visuel :** ![windows+E](gifs/windows_E.gif)
 
 **Catégories :** Gestion du bureau et des fenetres
 
@@ -419,7 +423,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Description :** verrouille la session active
 
-**Catégories :** MISC.
+**Catégories :** MISC
 
 ### ouvrir la page de propriétés du PC .
 
@@ -604,7 +608,7 @@ Il faut maintenir les touches CTRL (Control) et MAJ du clavier enfoncées et app
 **Description :** Le raccourci permet d'effacer le texte entre le curseur et la fin d'un mot, dans l'explorateur de fichiers Windows ou dans un document avec du texte modifiable.
 Placer le curseur devant la première lettre de la partie à supprimer, maintenir les touches CTRL (Control) du clavier enfoncées et appuyer sur la SUPPR.
 
-**Visuel :** ![Raccourci clavier avec CTRL-SUPPR](gifs/CTRL_SUPPR.gif "Visuel du raccourci clavier CTRL-SUPPR")
+**Visuel :**![Raccourci clavier avec CTRL-SUPPR](gifs/CTRL_SUPPR.gif "Visuel du raccourci clavier CTRL-SUPPR")
 
 **Catégories :** Gestion du texte
 
@@ -622,10 +626,10 @@ Placer le curseur devant la première lettre de la partie à supprimer, mainteni
 
 **Combinaison de touches :** *CTRL* - *MAJ* - *ECHAP*
 
-**Description :** Le raccourci permet d'ouvrir le gestionnaire des tâches.
+**Description :**Le raccourci permet d'ouvrir le gestionnaire des tâches.
 Il suffit de maintenir enfoncée les touches CTRL (Control), MAJ et ECHAP (ESC) pour arriver sur le gestionnaire des taches et ainsi fermer le programme en question.
 
-**Visuel :** ![Raccourci clavier avec CTRL-MAJ-ECHAP](gifs/CTRL_MAJ_ECHAP.gif "Visuel du raccourci clavier CTRL-N")
+**Visuel :**![Raccourci clavier avec CTRL-MAJ-ECHAP](gifs/CTRL_MAJ_ECHAP.gif "Visuel du raccourci clavier CTRL-N")
 
 **Catégories :** MISC
 
