@@ -125,7 +125,7 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 ### Raccourcis commençant par WIN
 
-[Menu executer](#menu-executer)
+[Menu exécuter](#menu-executer)
 
 [Ouvrir la page de propriétés du PC](#ouvrir-la-page-de-propriétés-du-PC)
 
@@ -171,7 +171,7 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 [Créer un nouveau dossier dans l'explorateur de fichiers](#créer-un-nouveau-dossier-dans-lexplorateur-de-fichiers)
 
-[Selectionner le texte entre le curseur et le début/fin du document](#selectionner-le-texte-entre-le-curseur-et-le-débutfin-du-document)
+[Sélectionner le texte entre le curseur et le début/fin du document](#selectionner-le-texte-entre-le-curseur-et-le-débutfin-du-document)
 
 ### Raccourcis commençant par ALT
 
@@ -188,7 +188,7 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Combinaison de touches :** *CTRL* - *A*
 
-**Description :** Selection de tout le document
+**Description :** Sélection de tout le document
 
 **Visuel :** ![Raccourci clavier CTRL - A](gifs/CTRL_A.gif)
 
@@ -209,19 +209,19 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Combinaison de touches :** *CTRL* -*X*  ou *MAJ* - *suppr*
 
-**Description :** Coupe le texte selectionné dans le presse papier
+**Description :** Coupe le texte sélectionné dans le presse papier
 
 **Visuel :** ![couper](gifs/couper.gif)
 
 **Catégories :** , MISC
 
-### Menu executer
+### Menu exécuter
 
 **Combinaison de touches :** *Windows* -*R*
 
-**Description :** Ouvre le menu executer.
+**Description :** Ouvre le menu exécuter.
 
-**Visuel :** ![Menu Executer](gifs/windows_r.gif)
+**Visuel :** ![Menu Exécuter](gifs/windows_r.gif)
 
 **Catégories :**	MISC
 
@@ -589,7 +589,7 @@ Il faut maintenir la touche CTRL (Control) du clavier enfoncée et appuyer sur l
 **Combinaison de touches :** *CTRL* - *MAJ* - *N*
 
 **Description :** Le raccourci permet de créer un nouveau dossier dans l'explorateur de fichiers.
-Il faut maintenir les touches CTRL (Control) et MAJ du clavier enfoncée et appuyer sur la lettre N.
+Il faut maintenir les touches CTRL (Control) et MAJ du clavier enfoncées et appuyer sur la lettre N.
 
 **Visuel :** ![Raccourci clavier avec CTRL-MAJ-N](gifs/CTRL_MAJ_N.gif "Visuel du raccourci clavier CTRL-MAJ-N")
 
@@ -600,7 +600,7 @@ Il faut maintenir les touches CTRL (Control) et MAJ du clavier enfoncée et appu
 **Combinaison de touches :** *CTRL* - *SUPPR*
 
 **Description :** Le raccourci permet d'effacer le texte entre le curseur et la fin d'un mot, dans l'explorateur de fichiers Windows ou dans un document avec du texte modifiable.
-Placer le curseur devant la première lettre de la partie à supprimer, maintenir les touches CTRL (Control) du clavier enfoncée et appuyer sur la SUPPR.
+Placer le curseur devant la première lettre de la partie à supprimer, maintenir les touches CTRL (Control) du clavier enfoncées et appuyer sur la SUPPR.
 
 **Visuel :** ![Raccourci clavier avec CTRL-SUPPR](gifs/CTRL_SUPPR.gif "Visuel du raccourci clavier CTRL-SUPPR")
 
