@@ -195,40 +195,39 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 **Visuel :** ![Raccourci clavier CTRL - A](gifs/CTRL_A.gif)
 
-**Catégories :** , MISC
+**Catégories :** MISC
 
-### Copier une sélection de texte, un dossier ou une image
+### Copie une sélection de texte, un dossier ou une image
 
 **Combinaisons de touches :** *CTRL* - *C* ou *CTRL* - *INSER*
 
-**Description :** Les raccourcis permettent de copier une sélection de texte, un dossier ou une image.
-Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier enfoncée et appuyer sur la lettre C, ou maintenir la touche CTRL (Control) du clavier enfoncée et appuyer sur la touche INSER.
+**Description :** Permet de copier une sélection de texte, un dossier ou une image.Il faut sélectionner l'élément, maintenir enfoncée la touche CTRL (Control) du clavier et appuyer sur la lettre C, ou maintenir enfoncée la touche CTRL (Control) du clavier et appuyer sur la touche INSER.
 
 **Visuel :** ![Raccourci clavier avec CTRL-C ou CTRL-INSER](gifs/CTRL_C_OU_CTRL_INSER.gif "Visuel des raccourcis clavier CTRL-C ou CTRL-INSER")
 
-**Catégories :** Gestion du texte , Gestion du presse-papiers
+**Catégories :** Gestion du texte, Gestion du presse-papier
 
 ### Couper
 
 **Combinaison de touches :** *CTRL* -*X*  ou *MAJ* - *suppr*
 
-**Description :** Coupe le texte sélectionné dans le presse papier
+**Description :** Permet de couper le texte sélectionné dans le presse-papier
 
 **Visuel :** ![couper](gifs/couper.gif)
 
-**Catégories :** , MISC
+**Catégories :** MISC
 
 ### Menu exécuter
 
 **Combinaison de touches :** *Windows* -*R*
 
-**Description :** Ouvre le menu exécuter.
+**Description :** Permet d'ouvrir le menu exécuter
 
 **Visuel :** ![Menu Exécuter](gifs/windows_r.gif)
 
 **Catégories :**	MISC
 
-### Annuler la dernière modification 
+### Annule la dernière modification 
 
 **Combinaison de touches :** *CTRL* - *Z* 
 
@@ -238,17 +237,17 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Catégories :** MISC
 
-### Ouvrir la page de propriétés du PC
+### Ouvre la page des propriétés du PC
 
 **Combinaison de touches :** *WIN* - *PAUSE*
 
-**Description :** Permet d'ouvrir la page de propriétés du PC
+**Description :** Permet d'ouvrir la page des propriétés du PC
 
 **Visuel :** ![Raccourcis clavier WIN - Pause](gifs/WIN_Pause.gif)
 
 **Catégories :** MISC
 
-### Ouvrir le menu démarrer
+### Ouvre le menu démarrer
 
 **Combinaison de touches :** *WINDOWS* 
 
@@ -258,7 +257,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Catégories :** MISC
 
-### Afficher les tâches 
+### Affiche les tâches 
 
 **Combinaison de touches :** *WIN* - *TAB*
 
@@ -278,7 +277,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Catégories :** Gestion du bureau et des fenêtres.
 
-### Sauvegarder le fichier actif 
+### Sauvegarde le fichier actif 
 
 **Combinaison de touches :** *CTRL* - *S*
 
@@ -288,7 +287,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Catégories :** MISC
 
-### Renommer l’élément sélectionné
+### Renomme l’élément sélectionné
 
 **Combinaison de touches :** *F2*
 
@@ -300,7 +299,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Combinaison de touches :** *F11*
 
-**Description :** Passer en mode plein écran
+**Description :** Permet de passer en mode plein écran
 
 **Visuel :** ![Plein écran](gifs/F11.gif)
 
@@ -310,13 +309,13 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Combinaison de touches :** *Windows* - *E*
 
-**Description :** Ouvrir l’explorateur de fichiers Windows  
+**Description :** Permet d'ouvrir l’explorateur de fichiers Windows  
 
 **Visuel :**   ![windows+E](windows_E.gif)
 
-**Catégories :** Gestion du bureau et des fenetres
+**Catégories :** Gestion du bureau et des fenêtres
 
-### Placer le curseur en début / fin de ligne
+### Place le curseur en début / fin de ligne
 
 **Combinaison de touches :** *DEBUT*/*FIN*
 
@@ -326,47 +325,47 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Catégories :** Gestion du texte
 
-### Masquer toutes les fenêtres
+### Masque toutes les fenêtres
 
 **Combinaison de touches :** *WIN* - *D*
 
-**Description :** Afficher et masquer le bureau.
+**Description :** permet d'afficher et masquer le bureau
 
 **Visuel :** ![WIN - D](gifs/WIN_D.gif)
 
 **Catégories :** Gestion du bureau et des fenêtres
 
-### Lancer la saisie vocale
+### Lance la saisie vocale
 
 **Combinaison de touches :** *WIN* - *H*
 
-**Description :** Lancer la saisie vocale.
+**Description :** Permet de lancer la saisie vocale.
 
 **Visuel :** ![WIN - D](gifs/WIN_H.gif)
 
 **Catégories :** MISC
 
-### Pour fermer la fenêtre active
+### Ferme la fenêtre active
 
 **Combinaison de touches :** *ALT* - *F4*
 
-**Description :** Pour fermer la fenêtre active
+**Description :** Permet de fermer la fenêtre active
 
 **Visuel :** ![ALT - F4](gifs/ALT_F4.gif)
 
 **Catégories :** Gestion du texte, MISC
 
-### Actualiser la fenêtre active.
+### Actualise la fenêtre active.
 
 **Combinaison de touches :** *F5*
 
-**Description :** Rafraichir la fenêtre active
+**Description :** Permet de rafraîchir la fenêtre active
 
 **Visuel :** ![Plein écran](gifs/F5.gif)
 
 **Catégories :** MISC
 
-### Déplacer le curseur en début / fin du fichier
+### Déplace le curseur en début / fin du fichier
 
 **Combinaison de touches :** *CTRL* - *DEBUT/FIN*
 
@@ -396,7 +395,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Catégories :** Gestion du texte et Gestion du presse-papier
 
-### Accéder aux paramètres Windows
+### Accéde aux paramètres Windows
 
 **Combinaison de touches :** *WIN* - *I* 
 
@@ -416,35 +415,35 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Catégories :** MISC
 
-### Verrouiller la session.
+### Verrouille la session.
 
 **Combinaison de touches :** *WIN* - *L*
 
-**Description :** verrouille la session active
+**Description :** Permet de verrouiller la session active
 
 **Catégories :** MISC.
 
-### ouvrir la page de propriétés du PC .
+### ouvre la page des propriétés du PC .
 
 **Combinaison de touches :** *WIN* - *p*
 
-**Description :** ouvre la page de propriétés du PC 
+**Description :** Permet d'ouvrir la page des propriétés du PC 
 
 **Visuel :** ![gif_result_WIN+p](/gifs/win_p.gif)
 
 **Catégories :** MISC.
 
-### Effacer un mot
+### Efface un mot
 
 **Combinaison de touches :** *CTRL* -*RETOUR ARRIERE*
 
-**Description :** Efface le texte entre le curseur et le début du mot
+**Description :** permet d'effacer le texte entre le curseur et le début du mot
 
 **Visuel :**![Raccourci clavier CTRL -RETOUR ARRIERE](gifs/CTRL_BACKPACE.gif)
 
 **Catégories :** Gestion du texte
 
-### Déplacer la fenêtre en cours d’un écran à l’autre
+### Déplace la fenêtre en cours d’un écran à l’autre
 
 **Combinaison de touches :** *WIN* - *MAJ* - *GAUCHE/DROITE*
 
@@ -474,17 +473,17 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Catégories :** Gestion du texte
 
-### Historique presse papier 
+### Historique du presse-papier 
 
 **Combinaison de touches :** *Windows* - *v*
 
-**Description du raccourcis :** Permet d'afficher l'historique du presse papier. Ce qui permet de sélectionner ce que l'on souhaite coller. 
+**Description du raccourcis :** Permet d'afficher l'historique du presse-papier. Ce qui permet de sélectionner ce que l'on veut coller. 
 
 **Visuel :** ![windows+v]( gifs/windows+v.gif)
 
-**Categories :** Gestion du presse-papier (C)
+**Categories :** Gestion du presse-papier
 
-### Ouvrir l’outil de capture Windows 
+### Ouvre l’outil de capture Windows 
 
 **Combinaison de touches :** *windows* - *Maj* - *S*
 
@@ -494,9 +493,9 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Categories :** MISC
 
-### Naviguer mot par mot 
+### Navigue mot par mot 
 
-**Combinaison de touches :** *CTRL* - *TOUCHES DIRECTIONELLE*
+**Combinaison de touches :** *CTRL* - *TOUCHES DIRECTIONELLES*
 
 **Description du raccourcis :** Permet de naviguer mot par mot 
 
@@ -504,11 +503,11 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Categories :** MISC
 
-### Rechercher dans la page ou application ouverte.
+### Recherche dans la page ou application ouverte.
 
 **Combinaison de touches :** (*CTRL* - *F*) ou *F3*
 
-**Description du racourcis :** Permet d'ouvrir l'outil de recherche (comportement peut différer légèrement en fonction de l’application) 
+**Description du racourcis :** Permet d'ouvrir l'outil de recherche (Le comportement peut différer légèrement en fonction de l’application) 
 
 **Visuel :**![ctrl+f ou f3](gifs/ctrl+f_ou_f3.gif)
 
@@ -528,21 +527,21 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Catégories :** MISC
 
-### Mettre fin à une action en cours
+### Met fin à une action en cours
 
 **Combinaison de touches :** *ESC* ou *ECHAP*
 
-**Description :** désélectionner la sélection courante/ arrêter ou quitter la tâche en cours
+**Description :** permet de désélectionner la sélection courante/ arrêter ou quitter la tâche en cours
 
 **Visuel :** ![ECHAP.gif](gifs/ECHAP.gif)
 
 **Catégories :** MISC
 
-### Menu des lien rapide
+### Menu des liens rapides
 
 **Combinaison de touches :** *WIN* - *X*
 
-**Description :** Permet d'ouvrir le menu de liens rapides (menu Démarrer alternatiif)
+**Description :** Permet d'ouvrir le menu des liens rapides (menu Démarrer alternatiif)
 
 **Visuel :** ![Raccourcis clavier WIN - X](gifs/WIN_X.gif)
 
@@ -552,7 +551,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Combinaison de touches :** *MAJ 5 fois*
 
-**Description:** Active/Désactive les touches rémanentes
+**Description:** permet d'Activer/Désactiver les touches rémanentes
 
 **Visuel :** ![Raccourci touche rémanentes](gifs/Remanentes.gif)
 
@@ -562,7 +561,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Combinaison de touches :** *CTRL* - *Y* / *CTRL* - *Maj* - *Z*
 
-**Description :** Permet de rétablir la dernière modification annulée (c.a.d après avoir utilisé le raccourcis CTRL-Z) (répétable)
+**Description :** Permet de rétablir la dernière modification annulée (c.a.d après avoir utilisé le raccourci CTRL-Z) (répétable)
 
 **Visuel :** ![CTRL_Y_OU_CTRL_Maj_Z](gifs/CRTL_Y_OU_CRTL_Maj_Z.gif)
 
@@ -578,23 +577,23 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Catégories :** Gestion du bureau et des fenêtres
 
-### Ouvrir une nouvelle fenêtre
+### Ouvre une nouvelle fenêtre
 
 **Combinaison de touches :** *CTRL* - *N*
 
-**Description :** Le raccourci permet d'ouvrir une nouvelle fenêtre.
-Il faut maintenir la touche CTRL (Control) du clavier enfoncée et appuyer sur la lettre N.
+**Description :** Permet d'ouvrir une nouvelle fenêtre.
+Il faut maintenir enfoncée la touche CTRL (Control) du clavier et appuyer sur la lettre N.
 
 **Visuel :** ![Raccourci clavier avec CTRL-N](gifs/CTRL_N.gif "Visuel du raccourci clavier CTRL-N")
 
 **Catégories :** Gestion du bureau et des fenêtres
 
-### Créer un nouveau dossier dans l'explorateur de fichiers
+### Crée un nouveau dossier dans l'explorateur de fichiers
 
 **Combinaison de touches :** *CTRL* - *MAJ* - *N*
 
-**Description :** Le raccourci permet de créer un nouveau dossier dans l'explorateur de fichiers.
-Il faut maintenir les touches CTRL (Control) et MAJ du clavier enfoncées et appuyer sur la lettre N.
+**Description :** Permet de créer un nouveau dossier dans l'explorateur de fichiers.
+Il faut maintenir enfoncées les touches CTRL (Control) et MAJ du clavier et appuyer sur la lettre N.
 
 **Visuel :** ![Raccourci clavier avec CTRL-MAJ-N](gifs/CTRL_MAJ_N.gif "Visuel du raccourci clavier CTRL-MAJ-N")
 
@@ -604,18 +603,18 @@ Il faut maintenir les touches CTRL (Control) et MAJ du clavier enfoncées et app
 
 **Combinaison de touches :** *CTRL* - *SUPPR*
 
-**Description :** Le raccourci permet d'effacer le texte entre le curseur et la fin d'un mot, dans l'explorateur de fichiers Windows ou dans un document avec du texte modifiable.
-Placer le curseur devant la première lettre de la partie à supprimer, maintenir les touches CTRL (Control) du clavier enfoncées et appuyer sur la SUPPR.
+**Description :** Permet d'effacer le texte entre le curseur et la fin d'un mot, dans l'explorateur de fichiers Windows ou dans un document avec du texte modifiable.
+Placer le curseur devant la première lettre de la partie à supprimer, maintenir enfoncées les touches CTRL (Control) du clavier et appuyer sur la touche SUPPR.
 
 **Visuel :** ![Raccourci clavier avec CTRL-SUPPR](gifs/CTRL_SUPPR.gif "Visuel du raccourci clavier CTRL-SUPPR")
 
 **Catégories :** Gestion du texte
 
-### Selectionner le texte entre le curseur et le début/fin du document.
+### Selectionne le texte entre le curseur et le début/fin du document.
 
 **Combinaison de touches :** *CTRL* -*maj*-*début*/*fin*
 
-**Description :** sélectionne le texte entre le curseur et le début/fin du document.
+**Description :** permet de sélectionner le texte entre le curseur et le début/fin du document.
 
 **Visuel :**![Raccourci clavier CTRL -maj-début/fin](gifs/CTRL_shift_fin.gif)
 
