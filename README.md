@@ -271,7 +271,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Description :** Permet de naviguer entre les fenêtres
 
-**Visuel :** ![result**GIF*_ALT+TAB_](alt_tab.gif)
+**Visuel :** ![result**GIF*_ALT+TAB_](gifs/alt_tab.gif)
 
 **Catégories :** Gestion du bureau et des fenêtres.
 
@@ -309,7 +309,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Description :** Ouvrir l’explorateur de fichiers Windows  
 
-**Visuel :**   ![windows+E](windows_E.gif)
+**Visuel :**   ![windows+E](gifs/windows_E.gif)
 
 **Catégories :** Gestion du bureau et des fenetres
 
@@ -608,7 +608,7 @@ Placer le curseur devant la première lettre de la partie à supprimer, mainteni
 
 **Catégories :** Gestion du texte
 
-### Selectionner le texte entre le curseur et le début/fin du document.
+### Selectionner le texte entre le curseur et le début/fin du document
 
 **Combinaison de touches :** *CTRL* -*maj*-*début*/*fin*
 
@@ -617,6 +617,17 @@ Placer le curseur devant la première lettre de la partie à supprimer, mainteni
 **Visuel :**![Raccourci clavier CTRL -maj-début/fin](gifs/CTRL_shift_fin.gif)
 
 **Catégories :** Gestion du texte.
+
+### Ouvrir le gestionnaire des tâches
+
+**Combinaison de touches :** *CTRL* - *MAJ* - *ECHAP*
+
+**Description :** Le raccourci permet d'ouvrir le gestionnaire des tâches.
+Il suffit de maintenir enfoncée les touches CTRL (Control), MAJ et ECHAP (ESC) pour arriver sur le gestionnaire des taches et ainsi fermer le programme en question.
+
+**Visuel :** ![Raccourci clavier avec CTRL-MAJ-ECHAP](gifs/CTRL_MAJ_ECHAP.gif "Visuel du raccourci clavier CTRL-N")
+
+**Catégories :** MISC
 
 [Retourner en haut du document](#raccourcis-windows)
 
