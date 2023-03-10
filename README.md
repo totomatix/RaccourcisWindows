@@ -54,6 +54,7 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 [Selectionner le texte entre le curseur et le début/fin du document](#selectionner-le-texte-entre-le-curseur-et-le-débutfin-du-document)
 
+[Sélectionne le texte entre le curseur et le début ou la fin de la ligne](#sélectionne-le-texte-entre-le-curseur-et-le-début-ou-la-fin-de-la-ligne)
 
 ### Gestion du bureau et des fenêtres
 
@@ -171,7 +172,7 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 [Créer un nouveau dossier dans l'explorateur de fichiers](#créer-un-nouveau-dossier-dans-lexplorateur-de-fichiers)
 
-[Selectionner le texte entre le curseur et le début/fin du document](#selectionner-le-texte-entre-le-curseur-et-le-débutfin-du-document)
+[Selectionner le texte entre le curseur et le début/fin du document](#selectionner-le-texte-entre-le-curseur-et-le-débutfin-du-document) 
 
 ### Raccourcis commençant par ALT
 
@@ -616,7 +617,16 @@ Placer le curseur devant la première lettre de la partie à supprimer, mainteni
 
 **Catégories :** Gestion du texte.
 
-[Retourner en haut du document](#raccourcis-windows)
+### Sélectionne le texte entre le curseur et le début ou la fin de la ligne
 
+**Combinaison du  raccourci :** *MAJ* - *DEBUT* / *FIN*
+
+**Description du raccourci :** Permet de sélectionner le texte entre le curseur et le début ou la fin de la ligne. Le curseur se retrouve ensuite en début ou en fin de ligne en fonction de l'action réalisée.
+
+**Visuel :** ![Raccourci maj+debut ou fin](gifs/maj_debut_ou_fin.gif)
+
+**Categories :** Gestion du texte 
+
+[Retourner en haut du document](#raccourcis-windows)
 
 [def]: #tout-sélectionner
