@@ -61,6 +61,8 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 [Naviguation entre les fenêtres](#naviguation-entre-les-fenêtres)
 
+[Naviguer entre les fenêtres](#naviguer-entre-les-fenêtres)
+
 [Masquer toutes les fenêtres](#masquer-toutes-les-fenêtres)
 
 [Déplacer la fenêtre en cours d’un écran à l’autre](#déplacer-la-fenêtre-en-cours-dun-écran-à-lautre)
@@ -97,6 +99,8 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 <!-- TODO : JOS : ajouter les liens vers chaque raccourcis de cette catégorie -->
 [Tout sélectionner](#tout-sélectionner)
+
+[Naviguer entre les fenêtres](#naviguer-entre-les-fenêtres)
 
 [Copier](#copier-une-sélection-de-texte-un-dossier-ou-une-image)
 
@@ -616,7 +620,15 @@ Placer le curseur devant la première lettre de la partie à supprimer, mainteni
 
 **Catégories :** Gestion du texte.
 
-[Retourner en haut du document](#raccourcis-windows)
+### Naviguer entre les fenêtres.
 
+**Combinaison de touches :** *CTRL* -*ALT* -*TAB*
+
+**Description :** Naviguer entre les fenêtres (reste affiché sur l’écran)
+
+**Visuel :**![Raccourci CTRL -ALT TAB](gifs/CTRL_ALT_TAB.gif)
+**Catégories :** Gestion du bureau et des fenêtres 
+
+[Retourner en haut du document](#raccourcis-windows)
 
 [def]: #tout-sélectionner
