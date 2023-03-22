@@ -35,6 +35,8 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 [Copier une sélection de texte, un dossier ou une image](#copier-une-sélection-de-texte-un-dossier-ou-une-image)
 
+[Ouvrir le gestionnaire des tâches](#ouvrir-le-gestionnaire-des-tâches)
+
 [Couper](#couper-le-texte-selectionné )
 
 [Placer le curseur en début / fin de ligne](#placer-le-curseur-en-début--fin-de-ligne)
@@ -99,6 +101,8 @@ Des liens entre les différentes parties du document seront présents afin d’a
 [Copier](#copier-une-sélection-de-texte-un-dossier-ou-une-image)
 
 [Couper](#couper)
+
+[Ouvrir le gestionnaire des tâches](#ouvrir-le-gestionnaire-des-tâches)
 
 [Annuler](#annuler-la-dernière-modification)
 
@@ -269,7 +273,7 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 **Description :** Permet de naviguer entre les fenêtres
 
-**Visuel :** ![result**GIF*_ALT+TAB_](alt_tab.gif)
+**Visuel :** ![result**GIF*_ALT+TAB_](gifs/alt_tab.gif)
 
 **Catégories :** Gestion du bureau et des fenêtres.
 
@@ -307,7 +311,7 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 **Description :** Permet d'ouvrir l’explorateur de fichiers Windows  
 
-**Visuel :**   ![windows+E](windows_E.gif)
+**Visuel :** ![windows+E](gifs/windows_E.gif)
 
 **Catégories :** Gestion du bureau et des fenêtres
 
@@ -417,7 +421,7 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 **Description :** Permet de verrouiller la session active
 
-**Catégories :** MISC.
+**Catégories :** MISC
 
 ### ouvre le menu des options de projection du PC
 
@@ -602,11 +606,11 @@ Il faut maintenir enfoncées les touches CTRL (Control) et MAJ du clavier et app
 **Description :** Permet d'effacer le texte entre le curseur et la fin d'un mot, dans l'explorateur de fichiers Windows ou dans un document avec du texte modifiable.
 Placer le curseur devant la première lettre de la partie à supprimer, maintenir enfoncées les touches CTRL (Control) du clavier et appuyer sur la touche SUPPR.
 
-**Visuel :** ![Raccourci clavier avec CTRL-SUPPR](gifs/CTRL_SUPPR.gif "Visuel du raccourci clavier CTRL-SUPPR")
+**Visuel :**![Raccourci clavier avec CTRL-SUPPR](gifs/CTRL_SUPPR.gif "Visuel du raccourci clavier CTRL-SUPPR")
 
 **Catégories :** Gestion du texte
 
-### Selectionne le texte entre le curseur et le début/fin du document.
+### Selectionner le texte entre le curseur et le début/fin du document
 
 **Combinaison de touches :** *CTRL* -*maj*-*début*/*fin*
 
@@ -625,6 +629,17 @@ Placer le curseur devant la première lettre de la partie à supprimer, mainteni
 **Visuel :** ![Raccourci maj+debut ou fin](gifs/maj_debut_ou_fin.gif)
 
 **Categories :** Gestion du texte 
+
+### Ouvrir le gestionnaire des tâches
+
+**Combinaison de touches :** *CTRL* - *MAJ* - *ECHAP*
+
+**Description :**Le raccourci permet d'ouvrir le gestionnaire des tâches.
+Il suffit de maintenir enfoncée les touches CTRL (Control), MAJ et ECHAP (ESC) pour arriver sur le gestionnaire des taches et ainsi fermer le programme en question.
+
+**Visuel :**![Raccourci clavier avec CTRL-MAJ-ECHAP](gifs/CTRL_MAJ_ECHAP.gif "Visuel du raccourci clavier CTRL-N")
+
+**Catégories :** MISC
 
 [Retourner en haut du document](#raccourcis-windows)
 
