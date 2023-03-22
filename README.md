@@ -150,7 +150,7 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 [Ouvrir l’outil de capture Windows ](#ouvrir-loutil-de-capture-Windows)
 
-[WIN – touches directionnelles](#win-–-touches-directionnelles)
+[Fenêtres côte à côte](#fenètres-côte-à-côte)
 
 [Menu des lien rapide](#menu-des-lien-rapide)
 
@@ -513,7 +513,7 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 **Categories :** MISC
 
-### WIN – touches directionnelles
+### Fenètres côte à côte
 
 **Combinaison de touches :** *WIN* - *touche directionnelle*
 
