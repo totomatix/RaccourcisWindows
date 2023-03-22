@@ -84,6 +84,7 @@ Des liens entre les différentes parties du document seront présents afin d’a
 [coller](#coller) 
 ### MISC
 
+
 [Tout sélectionner](#tout-sélectionner)
 [Copier une sélection de texte un dossier ou une image](#copier-une-sélection-de-texte-un-dossier-ou-une-image)
 [Couper](#Couper)
