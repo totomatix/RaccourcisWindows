@@ -541,7 +541,7 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 **Combinaison de touches :** *WIN* - *X*
 
-**Description :** Permet d'ouvrir le menu des liens rapides (menu Démarrer alternatiif)
+**Description :** Permet d'ouvrir le menu des liens rapides (menu Démarrer alternatif)
 
 **Visuel :** ![Raccourcis clavier WIN - X](gifs/WIN_X.gif)
 
