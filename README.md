@@ -179,8 +179,6 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 [Afficher le menu contextuel](#afficher-le-menu-contextuel)
 
-[Afficher le menu contextuel](#afficher-le-menu-contextuel)
-
 ### Raccourcis commençant par ALT
 
 [Naviguer entre les fenêtres](#naviguation-entre-les-fenêtres)
