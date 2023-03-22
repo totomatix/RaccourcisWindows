@@ -132,6 +132,8 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 [Ouvrir la page de propriétés du PC](#ouvre-la-page-des-propriétés-du-pc)
 
+[Ouvre le menu des options de projection du PC](#ouvre-le-menu-des-options-de-projection-du-pc)
+
 [Ouvrir le menu démarrer](#ouvre-le-menu-démarrer)
 
 [Ouverture explorateur Windows](#ouverture-explorateur-windows)
@@ -423,11 +425,11 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 **Catégories :** MISC.
 
-### ouvre la page des propriétés du PC .
+### ouvre le menu des options de projection du PC
 
 **Combinaison de touches :** *WIN* - *p*
 
-**Description :** Permet d'ouvrir la page des propriétés du PC 
+**Description :** Permet d'ouvrir le menu des options de projection du PC 
 
 **Visuel :** ![gif_result_WIN+p](/gifs/win_p.gif)
 
