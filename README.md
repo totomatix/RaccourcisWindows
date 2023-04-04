@@ -1,7 +1,8 @@
 # Raccourcis Windows
 
 <!-- TODO compléter le paragraphe introductif -->
-Documentation de raccourcis Windows intéressants à connaître pour un développeur.
+
+Documentation sur les raccourcis Windows intéressants à connaître pour un développeur.
 
 ## Sommaire des catégories
 
@@ -13,7 +14,7 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 [MISC](#misc)
 
-[Raccourcis F<chiffre>](#raccourcis-f)
+[Raccourcis commençant par F\<chiffre>](#raccourcis-commençant-par-fchiffre)
 
 [Raccourcis commençant par CTRL](#raccourcis-commençant-par-ctrl)
 
@@ -27,8 +28,9 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 ### Gestion du texte
 
-<!-- TODO : SD : ajouter les liens vers chaque raccourcis de cette catégorie -->
-**Catégories :**  MISC
+<!-- TODO : SD : ajouter les liens vers chaque raccourci de cette catégorie -->
+
+**Catégories :** MISC
 
 [Tout sélectionner](#tout-sélectionner)
 
@@ -73,7 +75,8 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 ### Gestion du presse-papier
 
-<!-- TODO : JS : ajouter les liens vers chaque raccourcis de cette catégorie -->
+<!-- TODO : JS : ajouter les liens vers chaque raccourci de cette catégorie -->
+
 [Historique presse papier](#historique-presse-papier)
 
 [couper](#couper) 
@@ -83,10 +86,9 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 [coller](#coller) 
 ### MISC
 
-<!-- TODO : PC : ajouter les liens vers chaque raccourcis de cette catégorie -->
+<!-- TODO : PC : ajouter les liens vers chaque raccourci de cette catégorie -->
 
-### Raccourcis F<chiffre>
-
+### Raccourcis commençant par F\<chiffre>
 [Renommer](#renommer-lélément-sélectionné)
 
 [Rechercher dans la page ou application ouverte](#rechercher-dans-la-page-ou-application-ouverte)
@@ -97,7 +99,8 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 ### Raccourcis commençant par CTRL
 
-<!-- TODO : JOS : ajouter les liens vers chaque raccourcis de cette catégorie -->
+<!-- TODO : JOS : ajouter les liens vers chaque raccourci de cette catégorie -->
+
 [Tout sélectionner](#tout-sélectionner)
 
 [Copier](#copier-une-sélection-de-texte-un-dossier-ou-une-image)
@@ -179,7 +182,8 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 ### Raccourcis commençant par ALT
 
-<!-- TODO :  : ajouter les liens vers chaque raccourcis de cette catégorie -->
+<!-- TODO :  : ajouter les liens vers chaque raccourci de cette catégorie -->
+
 [Naviguer entre les fenêtres](#naviguation-entre-les-fenêtres)
 
 [ouvrir le menu contextuel de la fenêtre en cours](#ouvre-le-menu-contextuel-de-la-fenêtre-en-cours)
@@ -196,7 +200,7 @@ Documentation de raccourcis Windows intéressants à connaître pour un dévelop
 
 **Visuel :** ![Raccourci clavier CTRL - A](gifs/CTRL_A.gif)
 
-**Catégories :** , MISC
+**Catégorie :** MISC
 
 ### Copier une sélection de texte, un dossier ou une image
 
@@ -207,7 +211,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![Raccourci clavier avec CTRL-C ou CTRL-INSER](gifs/CTRL_C_OU_CTRL_INSER.gif "Visuel des raccourcis clavier CTRL-C ou CTRL-INSER")
 
-**Catégories :** Gestion du texte , Gestion du presse-papiers
+**Catégorie :** Gestion du texte , Gestion du presse-papiers
 
 ### Couper
 
@@ -217,7 +221,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![couper](gifs/couper.gif)
 
-**Catégories :** , MISC
+**Catégorie :** MISC
 
 ### Menu exécuter
 
@@ -227,7 +231,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![Menu Exécuter](gifs/windows_r.gif)
 
-**Catégories :**	MISC
+**Catégorie :** MISC
 
 ### Annuler la dernière modification 
 
@@ -235,9 +239,9 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Description :** Permet d'annuler la dernière modification (répétable)
 
-**Visuel :** ![Raccourcis clavier CTRL - Z](gifs/CTRL_Z.gif)
+**Visuel :** ![Raccourci clavier CTRL - Z](gifs/CTRL_Z.gif)
 
-**Catégories :** MISC
+**Catégorie :** MISC
 
 ### Ouvrir la page de propriétés du PC
 
@@ -245,9 +249,9 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Description :** Permet d'ouvrir la page de propriétés du PC
 
-**Visuel :** ![Raccourcis clavier WIN - Pause](gifs/WIN_Pause.gif)
+**Visuel :** ![Raccourci clavier WIN - Pause](gifs/WIN_Pause.gif)
 
-**Catégories :** MISC
+**Catégorie :** MISC
 
 ### Ouvrir le menu démarrer
 
@@ -255,9 +259,9 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Description :** Permet d'ouvrir le menu démarrer
 
-**Visuel :** ![Raccourcis clavier CTRL - Z](gifs/WINDOWS.gif)
+**Visuel :** ![Raccourci clavier CTRL - Z](gifs/WINDOWS.gif)
 
-**Catégories :** MISC
+**Catégorie :** MISC
 
 ### Afficher les tâches 
 
@@ -267,7 +271,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![Affichage des tâches](gifs/win_tab.gif)
 
-**Catégories :** Gestion du bureau et des fenêtres.
+**Catégorie :** Gestion du bureau et des fenêtres.
 
 ### Naviguation entre les fenêtres
 
@@ -277,7 +281,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![result**GIF*_ALT+TAB_](gifs/alt_tab.gif)
 
-**Catégories :** Gestion du bureau et des fenêtres.
+**Catégorie :** Gestion du bureau et des fenêtres.
 
 ### Sauvegarder le fichier actif 
 
@@ -285,9 +289,9 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Description :** Permet de sauvegarder le fichier actif 
 
-**Visuel :** ![Raccourcis clavier CTRL - S](gifs/CTRL_S.gif)
+**Visuel :** ![Raccourci clavier CTRL - S](gifs/CTRL_S.gif)
 
-**Catégories :** MISC
+**Catégorie :** MISC
 
 ### Renommer l’élément sélectionné
 
@@ -295,7 +299,9 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Description :** Permet de renommer l’élément sélectionné
 
-**Visuel :** ![Raccourcis clavier F2](gifs/F2.gif)
+**Visuel :** ![Raccourci clavier F2](gifs/F2.gif)
+
+**Catégorie :** MISC
 
 ### Plein écran
 
@@ -305,7 +311,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![Plein écran](gifs/F11.gif)
 
-**Catégories :**	MISC
+**Catégorie :** MISC
 
 ### Ouverture explorateur Windows
 
@@ -315,7 +321,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![windows+E](gifs/windows_E.gif)
 
-**Catégories :** Gestion du bureau et des fenetres
+**Catégorie :** Gestion du bureau et des fenêtres
 
 ### Placer le curseur en début / fin de ligne
 
@@ -323,9 +329,9 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Description :** Permet de placer le curseur en début / fin de ligne
 
-**Visuel :** ![Raccourcis clavier DEBUT/FIN](gifs/DEBUT-FIN.gif)
+**Visuel :** ![Raccourci clavier DEBUT/FIN](gifs/DEBUT-FIN.gif)
 
-**Catégories :** Gestion du texte
+**Catégorie :** Gestion du texte
 
 ### Masquer toutes les fenêtres
 
@@ -335,7 +341,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![WIN - D](gifs/WIN_D.gif)
 
-**Catégories :** Gestion du bureau et des fenêtres
+**Catégorie :** Gestion du bureau et des fenêtres
 
 ### Lancer la saisie vocale
 
@@ -345,7 +351,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![WIN - D](gifs/WIN_H.gif)
 
-**Catégories :** MISC
+**Catégorie :** MISC
 
 ### Pour fermer la fenêtre active
 
@@ -355,7 +361,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![ALT - F4](gifs/ALT_F4.gif)
 
-**Catégories :** Gestion du texte, MISC
+**Catégorie :** Gestion du texte, MISC
 
 ### Actualiser la fenêtre active.
 
@@ -365,7 +371,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![Plein écran](gifs/F5.gif)
 
-**Catégories :** MISC
+**Catégorie :** MISC
 
 ### Déplacer le curseur en début / fin du fichier
 
@@ -373,9 +379,9 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Description :** Permet de déplacer le curseur en début / fin du fichier
 
-**Visuel :** ![Raccourcis clavier CTRL - DEBUT/FIN](gifs/CTRL_DEBUT-FIN.gif)
+**Visuel :** ![Raccourci clavier CTRL - DEBUT/FIN](gifs/CTRL_DEBUT-FIN.gif)
 
-**Catégories :** Gestion du texte
+**Catégorie :** Gestion du texte
 
 ### Sélection mot par mot
 
@@ -385,7 +391,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![CRTL_Maj.gif](gifs/CRTL_Maj.gif)
 
-**Catégories :** Gestion du texte
+**Catégorie :** Gestion du texte
 
 ### Coller
 
@@ -395,7 +401,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![CRTL_V_OR_MAJ_INSER.gif](gifs/CTRL_V_OR_MAJ_INSER.gif)
 
-**Catégories :** Gestion du texte et Gestion du presse-papier
+**Catégorie :** Gestion du texte et Gestion du presse-papier
 
 ### Accéder aux paramètres Windows
 
@@ -405,7 +411,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![WIN_I.gif](gifs/WIN_I.gif)
 
-**Catégories :** MISC
+**Catégorie :** MISC
 
 ### Ouvre le menu contextuel de la fenêtre en-cours
 
@@ -415,7 +421,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![ALT_ESPACE.gif](gifs/ALT_ESPACE.gif)
 
-**Catégories :** MISC
+**Catégorie :** MISC
 
 ### Verrouiller la session.
 
@@ -423,7 +429,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Description :** verrouille la session active
 
-**Catégories :** MISC
+**Catégorie :** MISC
 
 ### ouvrir la page de propriétés du PC .
 
@@ -433,7 +439,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![gif_result_WIN+p](/gifs/win_p.gif)
 
-**Catégories :** MISC.
+**Catégorie :** MISC.
 
 ### Effacer un mot
 
@@ -443,7 +449,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :**![Raccourci clavier CTRL -RETOUR ARRIERE](gifs/CTRL_BACKPACE.gif)
 
-**Catégories :** Gestion du texte
+**Catégorie :** Gestion du texte
 
 ### Déplacer la fenêtre en cours d’un écran à l’autre
 
@@ -451,9 +457,9 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Description :** Permet de déplacer la fenêtre en cours d’un écran à l’autre
 
-**Visuel :** ![Raccourcis clavier WINDOWS - MAJ - GAUCHE/DROITE](gifs/WINDOWS_MAJ_GAUCHE-DROITE.gif)
+**Visuel :** ![Raccourci clavier WINDOWS - MAJ - GAUCHE/DROITE](gifs/WINDOWS_MAJ_GAUCHE-DROITE.gif)
 
-**Catégories :** Gestion du bureau et des fenêtres
+**Catégorie :** Gestion du bureau et des fenêtres
 
 ### Sélection de texte lettre par lettre
 
@@ -461,9 +467,9 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Description :** Permet la sélection de texte lettre par lettre
 
-**Visuel :** ![Raccourcis clavier MAJ – touche directionnelle](gifs/MAJ_ToucheDirectionnelle.gif)
+**Visuel :** ![Raccourci clavier MAJ – touche directionnelle](gifs/MAJ_ToucheDirectionnelle.gif)
 
-**Catégories :** Gestion du texte
+**Catégorie :** Gestion du texte
 
 ### Entrer/sortir du mode insertion
 
@@ -471,15 +477,15 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Description :** Permet d'entrer/sortir du mode insertion
 
-**Visuel :** ![Raccourcis clavier INSERT](gifs/INSERT.gif)
+**Visuel :** ![Raccourci clavier INSERT](gifs/INSERT.gif)
 
-**Catégories :** Gestion du texte
+**Catégorie :** Gestion du texte
 
 ### Historique presse papier 
 
 **Combinaison de touches :** *Windows* - *v*
 
-**Description du raccourcis :** Permet d'afficher l'historique du presse papier. Ce qui permet de sélectionner ce que l'on souhaite coller. 
+**Description du raccourci :** Permet d'afficher l'historique du presse papier. Ce qui permet de sélectionner ce que l'on souhaite coller. 
 
 **Visuel :** ![windows+v]( gifs/windows+v.gif)
 
@@ -489,7 +495,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Combinaison de touches :** *windows* - *Maj* - *S*
 
-**Description du raccourcis :** Permet  d'ouvrir l’outil de capture d'écran  Windows et de sélectionner une partie ou la totalité de l'écran.
+**Description du raccourci :** Permet  d'ouvrir l’outil de capture d'écran  Windows et de sélectionner une partie ou la totalité de l'écran.
 
 **Visuel :** ![windows+maj+s](gifs/windows+maj+s.gif)
 
@@ -499,7 +505,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Combinaison de touches :** *CTRL* - *TOUCHES DIRECTIONELLE*
 
-**Description du raccourcis :** Permet de naviguer mot par mot 
+**Description du raccourci :** Permet de naviguer mot par mot 
 
 **Visuel :** ![CTRL+<-/->](gifs/CTRL+fleche.gif)
 
@@ -527,7 +533,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![gif_result_WIN+p](/gifs/WIN_TouchesDirectionnelles.gif)
 
-**Catégories :** MISC
+**Catégorie :** MISC
 
 ### Mettre fin à une action en cours
 
@@ -537,7 +543,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![ECHAP.gif](gifs/ECHAP.gif)
 
-**Catégories :** MISC
+**Catégorie :** MISC
 
 ### Menu des lien rapide
 
@@ -545,9 +551,9 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Description :** Permet d'ouvrir le menu de liens rapides (menu Démarrer alternatiif)
 
-**Visuel :** ![Raccourcis clavier WIN - X](gifs/WIN_X.gif)
+**Visuel :** ![Raccourci clavier WIN - X](gifs/WIN_X.gif)
 
-**Catégories :** MISC
+**Catégorie :** MISC
 
 ### Touches rémanentes
 
@@ -557,17 +563,17 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![Raccourci touche rémanentes](gifs/Remanentes.gif)
 
-**Catégories :** MISC
+**Catégorie :** MISC
 
 ### Rétabli la dernière modification annulée
 
 **Combinaison de touches :** *CTRL* - *Y* / *CTRL* - *Maj* - *Z*
 
-**Description :** Permet de rétablir la dernière modification annulée (c.a.d après avoir utilisé le raccourcis CTRL-Z) (répétable)
+**Description :** Permet de rétablir la dernière modification annulée (c.a.d après avoir utilisé le raccourci CTRL-Z) (répétable)
 
 **Visuel :** ![CTRL_Y_OU_CTRL_Maj_Z](gifs/CRTL_Y_OU_CRTL_Maj_Z.gif)
 
-**Catégories :** MISC
+**Catégorie :** MISC
 
 ### Ferme la fenêtre active
 
@@ -577,7 +583,7 @@ Il faut sélectionner l'élément, maintenir la touche CTRL (Control) du clavier
 
 **Visuel :** ![CTRL_W](gifs/CTRL_W.gif)
 
-**Catégories :** Gestion du bureau et des fenêtres
+**Catégorie :** Gestion du bureau et des fenêtres
 
 ### Ouvrir une nouvelle fenêtre
 
@@ -588,7 +594,7 @@ Il faut maintenir la touche CTRL (Control) du clavier enfoncée et appuyer sur l
 
 **Visuel :** ![Raccourci clavier avec CTRL-N](gifs/CTRL_N.gif "Visuel du raccourci clavier CTRL-N")
 
-**Catégories :** Gestion du bureau et des fenêtres
+**Catégorie :** Gestion du bureau et des fenêtres
 
 ### Créer un nouveau dossier dans l'explorateur de fichiers
 
@@ -599,7 +605,7 @@ Il faut maintenir les touches CTRL (Control) et MAJ du clavier enfoncées et app
 
 **Visuel :** ![Raccourci clavier avec CTRL-MAJ-N](gifs/CTRL_MAJ_N.gif "Visuel du raccourci clavier CTRL-MAJ-N")
 
-**Catégories :** MISC
+**Catégorie :** MISC
 
 ### Efface le texte entre le curseur et la fin du mot
 
@@ -610,7 +616,7 @@ Placer le curseur devant la première lettre de la partie à supprimer, mainteni
 
 **Visuel :**![Raccourci clavier avec CTRL-SUPPR](gifs/CTRL_SUPPR.gif "Visuel du raccourci clavier CTRL-SUPPR")
 
-**Catégories :** Gestion du texte
+**Catégorie :** Gestion du texte
 
 ### Selectionner le texte entre le curseur et le début/fin du document
 
@@ -620,7 +626,7 @@ Placer le curseur devant la première lettre de la partie à supprimer, mainteni
 
 **Visuel :**![Raccourci clavier CTRL -maj-début/fin](gifs/CTRL_shift_fin.gif)
 
-**Catégories :** Gestion du texte.
+**Catégorie :** Gestion du texte.
 
 ### Ouvrir le gestionnaire des tâches
 
@@ -631,7 +637,7 @@ Il suffit de maintenir enfoncée les touches CTRL (Control), MAJ et ECHAP (ESC) 
 
 **Visuel :**![Raccourci clavier avec CTRL-MAJ-ECHAP](gifs/CTRL_MAJ_ECHAP.gif "Visuel du raccourci clavier CTRL-N")
 
-**Catégories :** MISC
+**Catégorie :** MISC
 
 [Retourner en haut du document](#raccourcis-windows)
 
