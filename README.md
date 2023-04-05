@@ -1,6 +1,7 @@
 # Raccourcis Windows
 
-Documentation de raccourcis Windows intéressants à connaître pour un développeur. Ce document est composé de plusieurs catégories redirigeant vers les raccourcis liés ;
+Documentation sur des raccourcis Windows intéressants à connaître pour un développeur.
+Ce document est composé de plusieurs catégories redirigeant vers les raccourcis liés.
 Les raccourcis sont présents en fin de document, après les catégories.
 Des liens entre les différentes parties du document seront présents afin d’améliorer la navigabilité. 
 
@@ -73,6 +74,7 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 [Ouvrir une nouvelle fenêtre](#ouvrir-une-nouvelle-fenêtre)
 
+
 ### Gestion du presse-papier
 
 [Afficher l'historique du presse papier](#afficher-lhistorique-du-presse-papier)
@@ -82,6 +84,7 @@ Des liens entre les différentes parties du document seront présents afin d’a
 [Copier une sélection de texte, un dossier ou une image](#copier-une-sélection-de-texte-un-dossier-ou-une-image)
 
 [Coller une sélection de texte, un dossier ou une image](#coller-une-sélection-de-texte-un-dossier-ou-une-image)
+
 
 ### MISC
 
@@ -249,7 +252,7 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 **Description :** Permet de copier une sélection de texte, un dossier ou une image, et de le mettre dans le presse-papier. Il faut sélectionner l'élément, maintenir enfoncée la touche CTRL (Control) du clavier et appuyer sur la lettre C, ou maintenir enfoncée la touche CTRL (Control) du clavier et appuyer sur la touche INSER
 
-**Visuel :** ![Copier une sélection de texte, un dossier ou une image](gifs/CTRL_C_OU_CTRL_INSER.gif "Visuel des raccourcis clavier CTRL-C ou CTRL-INSÉR")
+**Visuel :** ![Copier une sélection de texte, un dossier ou une image](gifs/CTRL_C_OU_CTRL_INSER.gif "Visuel du raccourci clavier CTRL-C ou CTRL-INSÉR")
 
 **Catégories :** [Gestion du texte](#gestion-du-texte), [Gestion du bureau et des fenêtres](#gestion-du-bureau-et-des-fenêtres)
 
@@ -276,7 +279,6 @@ Des liens entre les différentes parties du document seront présents afin d’a
 **Catégorie :**	[MISC](#misc)
 
 
-
 ### Annuler la dernière modification
 
 **Combinaison de touches :** *CTRL* - *Z* 
@@ -286,7 +288,6 @@ Des liens entre les différentes parties du document seront présents afin d’a
 **Visuel :** ![Annuler la dernière modification](gifs/CTRL_Z.gif "Visuel du raccourci clavier CTRL-Z")
 
 **Catégorie :** [MISC](#misc)
-
 
 
 ### Ouvrir la page des propriétés du PC
@@ -300,17 +301,15 @@ Des liens entre les différentes parties du document seront présents afin d’a
 **Catégorie :** [MISC](#misc)
 
 
-
 ### Ouvrir le menu démarrer
 
 **Touche :** *WINDOWS* 
 
 **Description :** Permet d'ouvrir le menu démarrer
 
-**Visuel :** ![Ouvrir le menu démarrer](gifs/WINDOWS.gif "Visuel de WINDOWS")
+**Visuel :** ![Ouvrir le menu démarrer](gifs/WINDOWS.gif "Visuel de la touche WINDOWS")
 
 **Catégorie :** [MISC](#misc)
-
 
 
 ### Afficher les tâches
@@ -321,7 +320,7 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 **Visuel :** ![Afficher les tâches](gifs/win_tab.gif "Visuel du raccourci clavier WINDOWS-TAB")
 
-**Catégories :** [Gestion du bureau et des fenêtres](#gestion-du-bureau-et-des-fenêtres)
+**Catégorie :** [Gestion du bureau et des fenêtres](#gestion-du-bureau-et-des-fenêtres)
 
 
 ### Naviguer entre les fenêtres
@@ -332,7 +331,7 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 **Visuel :** ![Naviguer entre les fenêtres](gifs/alt_tab.gif "Visuel du raccourci clavier ALT-TAB")
 
-**Catégories :** [Gestion du bureau et des fenêtres](#gestion-du-bureau-et-des-fenêtres)
+**Catégorie :** [Gestion du bureau et des fenêtres](#gestion-du-bureau-et-des-fenêtres)
 
 
 ### Sauvegarder le fichier actif
@@ -346,17 +345,15 @@ Des liens entre les différentes parties du document seront présents afin d’a
 **Catégorie :** [MISC](#misc)
 
 
-
 ### Renommer l’élément sélectionné
 
 **Touche :** *F2*
 
 **Description :** Permet de renommer l’élément sélectionné
 
-**Visuel :** ![Renommer l’élément sélectionné](gifs/F2.gif "Visuel de F2")
+**Visuel :** ![Renommer l’élément sélectionné](gifs/F2.gif "Visuel de la touche F2")
 
 **Catégorie :** [MISC](#misc)
-
 
 
 ### Passer en plein écran ou revenir avec un affichage normal
@@ -365,10 +362,9 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 **Description :** Permet de passer en mode plein écran et de revenir avec un affichage normal
 
-**Visuel :** ![Passer en plein écran ou revenir avec un affichage normal](gifs/F11.gif "Visuel de F11")
+**Visuel :** ![Passer en plein écran ou revenir avec un affichage normal](gifs/F11.gif "Visuel de la touche F11")
 
 **Catégorie :** [MISC](#misc)
-
 
 
 ### Ouvrir l'explorateur Windows
@@ -388,7 +384,7 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 **Description :** Permet de placer le curseur au début ou à la fin de la ligne
 
-**Visuel :** ![Placer le curseur au début ou à la fin de la ligne](gifs/DEBUT-FIN.gif "Visuel de DÉBUT ou FIN")
+**Visuel :** ![Placer le curseur au début ou à la fin de la ligne](gifs/DEBUT-FIN.gif "Visuel des touches DÉBUT et FIN")
 
 **Catégorie :** [Gestion du texte](#gestion-du-texte)
 
@@ -401,7 +397,7 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 **Visuel :** ![Afficher ou masquer toutes les fenêtres](gifs/WIN_D.gif "Visuel du raccourci clavier WINDOWS-D")
 
-**Catégories :** [Gestion du bureau et des fenêtres](#gestion-du-bureau-et-des-fenêtres)
+**Catégorie :** [Gestion du bureau et des fenêtres](#gestion-du-bureau-et-des-fenêtres)
 
 
 ### Lancer la saisie vocale
@@ -415,7 +411,6 @@ Des liens entre les différentes parties du document seront présents afin d’a
 **Catégorie :** [MISC](#misc)
 
 
-
 ### Fermer la fenêtre active
 
 **Combinaison de touches :** *ALT* - *F4*
@@ -427,17 +422,15 @@ Des liens entre les différentes parties du document seront présents afin d’a
 **Catégories :** [Gestion du texte](#gestion-du-texte), [MISC](#misc)
 
 
-
 ### Actualiser la fenêtre active
 
 **Touche :** *F5*
 
 **Description :** Permet d'actualiser la fenêtre active
 
-**Visuel :** ![Actualiser la fenêtre active](gifs/F5.gif "Visuel de F5")
+**Visuel :** ![Actualiser la fenêtre active](gifs/F5.gif "Visuel de la touche F5")
 
 **Catégorie :** [MISC](#misc)
-
 
 
 ### Déplacer le curseur au début ou à la fin du fichier
@@ -464,7 +457,7 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 ### Coller une sélection de texte, un dossier ou une image
 
-**Combinaison de touches :** *CRTL* - *V* ou *MAJ* - *INSER*
+**Combinaison de touches :** *CRTL* - *V* ou *MAJ* - *INSÉR*
 
 **Description :** Permet de coller une sélection de texte, un dossier ou une image, et de le déposer dans le presse-papier
 
@@ -484,7 +477,6 @@ Des liens entre les différentes parties du document seront présents afin d’a
 **Catégorie :** [MISC](#misc)
 
 
-
 ### Ouvrir le menu contextuel de la fenêtre en cours
 
 **Combinaison de touches :** *ALT* - *Barre espace* 
@@ -496,7 +488,6 @@ Des liens entre les différentes parties du document seront présents afin d’a
 **Catégorie :** [MISC](#misc)
 
 
-
 ### Verrouiller la session
 
 **Combinaison de touches :** *WINDOWS* - *L*
@@ -504,7 +495,6 @@ Des liens entre les différentes parties du document seront présents afin d’a
 **Description :** Permet de verrouiller la session active
 
 **Catégorie :** [MISC](#misc)
-
 
 
 ### Ouvrir le menu des options de projection du PC
@@ -520,7 +510,7 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 ### Effacer le texte entre le curseur et le début du mot
 
-**Combinaison de touches :** *CTRL* -*Retour arrière*
+**Combinaison de touches :** *CTRL* - *Retour arrière*
 
 **Description :** Permet d'effacer le texte entre le curseur et le début du mot
 
@@ -531,13 +521,13 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 ### Déplacer la fenêtre en cours d’un écran à l’autre
 
-**Combinaison de touches :** *WINDOWS* - *MAJ* - *Touche directionnelle gauche ou droite*
+**Combinaison de touches :** *WINDOWS* - *MAJ* - *Touches directionnelles gauche ou droite*
 
 **Description :** Permet de déplacer la fenêtre en cours d’un écran à l’autre
 
-**Visuel :** ![Déplacer la fenêtre en cours d’un écran à l’autre](gifs/WINDOWS_MAJ_GAUCHE-DROITE.gif"Visuel du raccourci clavier WINDOWS-MAJ-Touche directionnelle gauche ou droite")
+**Visuel :** ![Déplacer la fenêtre en cours d’un écran à l’autre](gifs/WINDOWS_MAJ_GAUCHE-DROITE.gif"Visuel du raccourci clavier WINDOWS-MAJ-Touches directionnelles gauche ou droite")
 
-**Catégories :** [Gestion du bureau et des fenêtres](#gestion-du-bureau-et-des-fenêtres)
+**Catégorie :** [Gestion du bureau et des fenêtres](#gestion-du-bureau-et-des-fenêtres)
 
 
 ### Sélectionner le texte, lettre par lettre
@@ -557,7 +547,7 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 **Description :** Permet d'entrer ou de sortir du mode insertion
 
-**Visuel :** ![Entrer ou sortir du mode insertion](gifs/INSERT.gif "Visuel de INSERT")
+**Visuel :** ![Entrer ou sortir du mode insertion](gifs/INSERT.gif "Visuel de la touche INSERT")
 
 **Catégorie :** [Gestion du texte](#gestion-du-texte)
 
@@ -626,7 +616,7 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 **Description :** Permet de désélectionner la sélection courante, d'arrêter ou de quitter la tâche en cours
 
-**Visuel :** ![Mettre fin à une action en cours](gifs/ECHAP.gif "Visuel de ESC ou ÉCHAP")
+**Visuel :** ![Mettre fin à une action en cours](gifs/ECHAP.gif "Visuel de la touche ÉCHAP (ESC)")
 
 **Catégorie :** [MISC](#misc)
 
@@ -648,7 +638,7 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 **Description:** Permet d'activer ou de désactiver les touches rémanentes
 
-**Visuel :** ![Activer ou désactiver les touches rémanentes](gifs/Remanentes.gif "Visuel de MAJ * 5")
+**Visuel :** ![Activer ou désactiver les touches rémanentes](gifs/Remanentes.gif "Visuel de la touche MAJ * 5")
 
 **Catégorie :** [MISC](#misc)
 
@@ -672,7 +662,7 @@ Des liens entre les différentes parties du document seront présents afin d’a
 
 **Visuel :** ![Fermer la fenêtre active](gifs/CTRL_W.gif "Visuel du raccourci clavier CTRL-W")
 
-**Catégories :** [Gestion du bureau et des fenêtres](#gestion-du-bureau-et-des-fenêtres)
+**Catégorie :** [Gestion du bureau et des fenêtres](#gestion-du-bureau-et-des-fenêtres)
 
 
 ### Ouvrir une nouvelle fenêtre
@@ -684,7 +674,7 @@ Il faut maintenir enfoncée la touche CTRL (Control) du clavier et appuyer sur l
 
 **Visuel :** ![Ouvrir une nouvelle fenêtre](gifs/CTRL_N.gif "Visuel du raccourci clavier CTRL-N")
 
-**Catégories :** [Gestion du bureau et des fenêtres](#gestion-du-bureau-et-des-fenêtres)
+**Catégorie :** [Gestion du bureau et des fenêtres](#gestion-du-bureau-et-des-fenêtres)
 
 
 ### Créer un nouveau dossier dans l'explorateur de fichiers
@@ -724,9 +714,9 @@ Placer le curseur devant la première lettre de la partie à supprimer, mainteni
 
 ### Sélectionner le texte entre le curseur et le début ou la fin de la ligne
 
-**Combinaison du  raccourci :** *MAJ* - *DÉBUT* ou *FIN*
+**Combinaison de touches :** *MAJ* - *DÉBUT* ou *FIN*
 
-**Description du raccourci :** Permet de sélectionner le texte entre le curseur et le début ou la fin de la ligne. Le curseur se retrouve ensuite en début ou en fin de ligne en fonction de l'action réalisée
+**Description :** Permet de sélectionner le texte entre le curseur et le début ou la fin de la ligne. Le curseur se retrouve ensuite en début ou en fin de ligne en fonction de l'action réalisée
 
 **Visuel :** ![Sélectionner le texte entre le curseur et le début ou la fin de la ligne](gifs/maj_debut_ou_fin.gif "Visuel du raccourci clavier MAJ DÉBUT ou FIN")
 
