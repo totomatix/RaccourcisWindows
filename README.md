@@ -1,6 +1,6 @@
 # Raccourcis Windows
 
-Documentation de raccourcis Windows intéressants à connaître pour un développeur. Ce document est composé de plusieurs catégories redirigeant vers les raccourcis liés ;
+Documentation sur des raccourcis Windows intéressants à connaître pour un développeur. Ce document est composé de plusieurs catégories redirigeant vers les raccourcis liés.
 Les raccourcis sont présents en fin de document, après les catégories.
 Des liens entre les différentes parties du document seront présents afin d’améliorer la navigabilité. 
 
